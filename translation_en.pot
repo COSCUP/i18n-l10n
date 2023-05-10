@@ -1,0 +1,2678 @@
+# English (en-us) translations for survey.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-05-08 17:18+0000\n"
+"PO-Revision-Date: 2023-05-10 15:13+0800\n"
+"Last-Translator: \n"
+"Language-Team: zh_hant <LL@li.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
+
+msgctxt "{\"cxt\": \"survey_title_html\", \"id\": 511771208}"
+msgid "World of Open Source: Global Spotlight 2023"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 39733434}"
+msgid "<strong>Introduction</strong>"
+msgstr ""
+
+#, python-format
+msgctxt "{\"cxt\": \"page_subheading\", \"id\": 39733434}"
+msgid ""
+"<div>\n"
+"<div>Thank you for participating in the Linux Foundation's World of Open "
+"Source: 2023 Global Spotlight survey, which aims to better understand the "
+"dynamics of open source across regions and industries.</div>\n"
+"<div> </div>\n"
+"<div>Your responses are anonymous and will be used to compile a report to be "
+"released later this year.</div>\n"
+"<div> </div>\n"
+"<div>As a thank you for participating in this research, once you have "
+"completed the survey, a code will be displayed on the confirmation page "
+"which can be used for a 25% discount on any Linux Foundation training course "
+"or certification exam listed in our catalog: https://training."
+"linuxfoundation.org/full-catalog/.</div>\n"
+"<div> </div>\n"
+"<div>Your name and/or organization name will not be displayed. Reviews are "
+"attributed to your role, organization size, and industry. Responses will be "
+"subject to the Linux Foundation’s Privacy Policy, available at https://"
+"linuxfoundation.org/privacy. Please note that research partners who are not "
+"Linux Foundation employees will review the survey results. Survey partners "
+"are not permitted to use your data for other purposes.</div>\n"
+"</div>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 40141391}"
+msgid "<strong>Introductory Questions</strong>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127858594}"
+msgid ""
+"<strong>What is your level of familiarity with how your organization uses "
+"and contributes to open source software (OSS)?</strong> (select one)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957641631}"
+msgid "Don't know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569422}"
+msgid "Not at all familiar"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569423}"
+msgid "A little familiar"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569424}"
+msgid "Somewhat familiar"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569425}"
+msgid "Very familiar"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569426}"
+msgid "Extremely familiar"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957834010}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127858595}"
+msgid ""
+"<strong>Please indicate what best describes who you are.</strong> (select "
+"one)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569428}"
+msgid "I'm just lines of code"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569429}"
+msgid "I am a real person"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569430}"
+msgid "I am a bot"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569431}"
+msgid "I just want to mess with the researchers"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569432}"
+msgid "Don't know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957834011}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127858596}"
+msgid ""
+"<strong>When talking about your organization's use of software, what "
+"perspective can you speak for?</strong> (select one)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957642019}"
+msgid "Don't know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569433}"
+msgid "I can speak for the entire company or organization that I work for"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569434}"
+msgid ""
+"I can only speak for the department I work for within the company or "
+"organization"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569435}"
+msgid ""
+"I work for multiple organizations and can speak for what I see in the "
+"industry"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569436}"
+msgid "I can speak only for myself"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957834012}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127858597}"
+msgid "<strong>What is your current employment status?</strong> (select one)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957643224}"
+msgid "Don't know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569438}"
+msgid "Student, full time or part time"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569439}"
+msgid "Recent graduate, but not yet employed"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569440}"
+msgid "Employed, full time"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569441}"
+msgid "Employed, part time"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569442}"
+msgid "Self-employed, full or part time"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569443}"
+msgid "Unemployed but previously employed and looking for work"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569444}"
+msgid "Unemployed, and not currently looking for work"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569445}"
+msgid "Retired"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957834013}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 40141644}"
+msgid "<strong>Tell us about yourself</strong>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127859996}"
+msgid ""
+"Since you are currently looking for employment, please answer this survey "
+"from the perspective of your last employer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127859820}"
+msgid ""
+"<strong>In what country or region does your organization have its "
+"headquarters?</strong> (select one)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577134}"
+msgid "North America (United States or Canada)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577135}"
+msgid "Mexico, Central America, and the Caribbean"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577136}"
+msgid "South America"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577137}"
+msgid "Western Europe"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957849528}"
+msgid "Eastern Europe (excluding Russia)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577138}"
+msgid "Middle East"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577139}"
+msgid "North Africa"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577140}"
+msgid "West and Central Africa"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577141}"
+msgid "Eastern and Southern Africa"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577142}"
+msgid "China"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577143}"
+msgid "India"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577144}"
+msgid "Japan"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577145}"
+msgid "Russia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577146}"
+msgid "Asia (except China, India, Japan, and Russia)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577147}"
+msgid "Oceania (including Australia and New Zealand)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957644354}"
+msgid "Please enter a comment."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 957644357}"
+msgid "Other (please specify)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957834120}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127859821}"
+msgid ""
+"<strong>Professionally, which role do you most closely identify with?</"
+"strong> (select one)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577149}"
+msgid "Software development (developer, engineer, architect, etc.)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577150}"
+msgid "Software delivery (packaging, release, QA)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577151}"
+msgid ""
+"Software development or delivery management - director or vice president"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577152}"
+msgid "Systems operations, administration, SRE, or ITSM"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577153}"
+msgid "Systems operations management - director or vice president"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577154}"
+msgid "Security team"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577155}"
+msgid "Business analyst"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577156}"
+msgid "Data scientist or machine learning"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577157}"
+msgid "Product or project management"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577158}"
+msgid "Open source program office (OSPO) team"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577159}"
+msgid "C-level (CEO, CFO, CTO, CIO, CISO, CSO)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577160}"
+msgid "Sales and marketing"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577161}"
+msgid "Legal counsel"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577162}"
+msgid "Academia / Education"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957645013}"
+msgid "Please enter a comment."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 957645016}"
+msgid "Other (please specify)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957834121}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 40141758}"
+msgid "<strong>Tell us about the organization you work for</strong>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127860454}"
+msgid ""
+"<strong>What option best describes the organization you work for?</strong> "
+"(select one)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581531}"
+msgid ""
+"“End user” organization. An organization that primarily uses IT products and "
+"services to support their business deliverables"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581532}"
+msgid "Hardware / software vendor"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581533}"
+msgid "Hardware / software supplier"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581534}"
+msgid "Embedded systems vendor"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581535}"
+msgid "System integrator or IT consulting firm"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581536}"
+msgid "Cloud service provider or managed service provider"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581537}"
+msgid "Software reseller or distributor"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581538}"
+msgid "Non-profit association or foundation"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581539}"
+msgid "Academic or research institution"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581540}"
+msgid "Government entity or agency"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957645601}"
+msgid "Please enter a comment."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 957645604}"
+msgid "Other entity (please specify)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957834154}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 40141833}"
+msgid "<strong>Tell us about the organization you work for</strong>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127860830}"
+msgid ""
+"Since you are employed by a system integrator, consulting firm, CSP, or "
+"software reseller/distributor, please answer the remaining questions on "
+"behalf of the most current client you are primarily working for."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127860919}"
+msgid ""
+"<strong>Which of the following best describes your organization's primary "
+"industry?</strong> (select one)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584345}"
+msgid "Agriculture"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584346}"
+msgid "Automotive"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584347}"
+msgid "Business services (accounting, management consulting, legal, etc.)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584348}"
+msgid "Consumer packaged goods"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584349}"
+msgid "Construction / engineering"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584350}"
+msgid "Education (K-12, primary, secondary)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584351}"
+msgid "Education (college, university)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584352}"
+msgid "Financial services (banking, insurance, securities, etc.)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584353}"
+msgid "Government (federal, national)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584354}"
+msgid "Government (state, local)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584355}"
+msgid "Health care"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584356}"
+msgid "Hospitality & travel"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584357}"
+msgid "Life sciences (biotech, pharmaceuticals, etc.)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584358}"
+msgid "Manufacturing (discrete or process)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584359}"
+msgid ""
+"Media (broadcast communications, entertainment, publishing, website, social "
+"networking, etc.)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584360}"
+msgid "Mining, oil, and gas"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584361}"
+msgid "Real estate, rental, and leasing"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584362}"
+msgid "Retail, wholesale, & eCommerce"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584363}"
+msgid "Telecommunications / Internet service provider (ISP) / web hosting"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584364}"
+msgid "Transportation & logistics (other than automotive)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584365}"
+msgid "Utilities / energy"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957646117}"
+msgid "Please enter a comment."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 957646120}"
+msgid "Other (please specify)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957838859}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127860920}"
+msgid ""
+"<strong>Which of the following best describes your organization's primary "
+"industry?</strong> (select one)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584367}"
+msgid "Agriculture"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584368}"
+msgid "Automotive"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584369}"
+msgid "Business services (accounting, management consulting, legal, etc.)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584370}"
+msgid "Consumer packaged goods"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584371}"
+msgid "Construction / engineering"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584372}"
+msgid "Education (K-12, primary, secondary)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584373}"
+msgid "Education (college, university)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584374}"
+msgid "Financial services (banking, insurance, securities, etc.)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584375}"
+msgid "Government (federal, national)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584376}"
+msgid "Government (state, local)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584377}"
+msgid "Health care"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584378}"
+msgid "Hospitality & travel"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584379}"
+msgid "Life sciences (biotech, pharmaceuticals, etc.)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584380}"
+msgid "Manufacturing (discrete or process)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584381}"
+msgid ""
+"Media (broadcast communications, entertainment, publishing, website, social "
+"networking, etc.)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584382}"
+msgid "Mining, oil, and gas"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584383}"
+msgid "Real estate, rental, and leasing"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584384}"
+msgid "Retail, wholesale, & eCommerce"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584385}"
+msgid "Telecommunications / Internet service provider (ISP) / web hosting"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584386}"
+msgid "Transportation & logistics (other than automotive)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584387}"
+msgid "Utilities / energy"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584388}"
+msgid ""
+"Cross-industry Information technology (IT vendor, service provider, or "
+"manufacturer)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957650477}"
+msgid "Please enter a comment."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 957650480}"
+msgid "Other (please specify)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957838860}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127860921}"
+msgid ""
+"<strong>Please estimate how many employees your organization has worldwide.</"
+"strong> (select one)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957651112}"
+msgid "Don't know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584390}"
+msgid "1 to 10"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584391}"
+msgid "11 to 49"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584392}"
+msgid "50 to 249"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584393}"
+msgid "250 to 999"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584394}"
+msgid "1,000 to 9,999"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584395}"
+msgid "10,000 to 19,999"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584396}"
+msgid "20,000 or more"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957838861}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127860922}"
+msgid ""
+"<strong>Which of the following actions has your organization engaged in "
+"regarding OSS?</strong> (select all that apply)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957652493}"
+msgid "None of the above"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584398}"
+msgid "Implemented an OSPO (Open Source Program Office)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584399}"
+msgid "Defined a clear and visible open source strategy"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584400}"
+msgid "Defined a public position on open source"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584401}"
+msgid "Joined or associated with open source organizations"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584402}"
+msgid "Don't know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957838862}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 40141938}"
+msgid "<strong>Tell us about your organization's use of OSS</strong>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861305}"
+msgid ""
+"The following questions all relate to the “use” of open source software in "
+"your organization. By use, we mean any of the following:<br>• Use of open "
+"source libraries as dependencies in a codebase<br>• Copy and paste of open "
+"source code into a codebase<br>• Use of open source tooling in the creation "
+"or deployment of a codebase"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861401}"
+msgid "<strong>How much does your organization use OSS?</strong> (select one)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957653824}"
+msgid "Don't know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957587536}"
+msgid "No use of open source"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957587537}"
+msgid "Minimal use of open source"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957587538}"
+msgid "Moderate use of open source"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957587539}"
+msgid "Significant use of open source"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957587540}"
+msgid "Widespread use of open source"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957839595}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861402}"
+msgid ""
+"<strong>To what extent is open source use permitted in your organization?</"
+"strong> (select one)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957654195}"
+msgid "Don't know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957587542}"
+msgid "Use of OSS is not permitted"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957587543}"
+msgid "Use of OSS is permitted under limited circumstances"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957587544}"
+msgid "Use of OSS is openly encouraged"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957587545}"
+msgid "Use of OSS is up to each development team"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957587546}"
+msgid "No clear policy"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957839596}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 40142024}"
+msgid "<strong>Tell us about your organization's use of OSS</strong>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861749}"
+msgid ""
+"<strong>What practices does your organization follow regarding the use of "
+"OSS?</strong> (select all that apply)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957656301}"
+msgid "None of the above"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590103}"
+msgid ""
+"We engage with outside professionals to determine what OSS components we "
+"should use"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590104}"
+msgid "We have a formal review process for evaluating OSS components"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590105}"
+msgid "We have internal manuals, checklists, or guidelines for using OSS"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590106}"
+msgid "We recommend developer training on secure software development"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590107}"
+msgid "We require developer training in secure software development"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590108}"
+msgid "Our OSPO works with developers to ensure its policies are followed"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590110}"
+msgid "Don't know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957839645}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861750}"
+msgid ""
+"<strong>What actions does your organization usually take before using a new "
+"OSS component?</strong> (select all that apply)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957661406}"
+msgid "Don't know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590111}"
+msgid "We don't review or evaluate the OSS components that we use"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590112}"
+msgid "We manually review/inspect the source code"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590113}"
+msgid ""
+"We evaluate the source code using automated tools (SCA, SAST, Fuzz Testing, "
+"web app scanners, etc.)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590114}"
+msgid ""
+"We evaluate the direct dependencies of the OSS code to determine if it's too "
+"risky to use"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590115}"
+msgid ""
+"We evaluate the transitive dependencies of the OSS code to determine if it's "
+"too risky to use"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590116}"
+msgid "We look at repository ratings or package downloads statistics"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590117}"
+msgid "We look at the frequency of releases"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590118}"
+msgid ""
+"We check the activity level of the project community (contributors, commits, "
+"etc.)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590119}"
+msgid ""
+"We check if the project has a responsible disclosure policy (such as a "
+"SECURITY.md)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590120}"
+msgid ""
+"We check the component against a risk policy or risk calculations that we do"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957839647}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861751}"
+msgid ""
+"<strong>In which of the following areas does your organization use OSS?</"
+"strong> (select all that apply)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957661904}"
+msgid "Don’t know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590122}"
+msgid "Advanced analytics and data science"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590123}"
+msgid "Artificial Intelligence / Machine Learning"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590124}"
+msgid "Augmented / Virtual reality"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590125}"
+msgid "Blockchain"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590126}"
+msgid "CI/CD & DevOps"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590127}"
+msgid "Cloud / Container technologies"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590128}"
+msgid "Cybersecurity"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590129}"
+msgid "Database and data management"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590130}"
+msgid "DevOps / GitOps / DevSecOps"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590131}"
+msgid "Edge computing"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590132}"
+msgid "IoT & Embedded"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590133}"
+msgid "Kubernetes"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590134}"
+msgid "Linux"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590135}"
+msgid "Manufacturing, 3D printing, and CAD / CAM"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590136}"
+msgid "Networking technologies (5G, SDN, NFV, etc.)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590137}"
+msgid "Open source hardware"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590138}"
+msgid "Storage technologies"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590139}"
+msgid "Web & application development"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957661901}"
+msgid "Please enter a comment."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 957661905}"
+msgid "Other (please specify)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957839678}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861752}"
+msgid ""
+"<strong>How often does using OSS deliver the following benefits in your "
+"organization?</strong> (select one response per row)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590142}"
+msgid "Improved software quality"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590143}"
+msgid "Improved productivity"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590144}"
+msgid "Improved security"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590145}"
+msgid "Lower cost of software ownership"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590146}"
+msgid "Lower cost of IT operations"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590147}"
+msgid "Less vendor lock-in"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590148}"
+msgid "Facilitates  innovation"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590149}"
+msgid "Make the organization a better place to work"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590150}"
+msgid "Less development time to market"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957593684}"
+msgid "Never"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957593685}"
+msgid "Rarely"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957593686}"
+msgid "Sometimes"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957593687}"
+msgid "Often"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957593688}"
+msgid "Always"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957593689}"
+msgid "Don't know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957839680}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861753}"
+msgid ""
+"<strong>Do you agree or disagree that OSS use in your organization is "
+"limited by:</strong> (select one response per row)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590151}"
+msgid "A lack of understanding of the non-technical value proposition"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590152}"
+msgid "Licensing of intellectual property (IP) concerns"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590153}"
+msgid ""
+"A lack of a clear policy or supporting training and guidance on how to use "
+"OSS"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590154}"
+msgid "External regulations or other formal restrictions"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590155}"
+msgid "Concerns about the quality of OSS components"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590156}"
+msgid "Concerns about the security of OSS components"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957595238}"
+msgid "Disagree"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957595239}"
+msgid "Neutral"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957595240}"
+msgid "Agree"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957595241}"
+msgid "Don't know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957839687}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861754}"
+msgid ""
+"<strong>How much would OSS use change if your organization invested in the "
+"following:</strong> (select one response per row)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590157}"
+msgid "Understanding the non-technical value proposition of OSS"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590158}"
+msgid "Implementing or improving an Open Source Program Office (OSPO)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590159}"
+msgid "Developing a clear and visible strategy for OSS"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590160}"
+msgid "Implementing a consistent policy or supporting training and guidance"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590161}"
+msgid "Improving legal, compliance, or security support"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590162}"
+msgid "Providing automated tooling to support policy"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590163}"
+msgid "Improving how we do secure software development"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590164}"
+msgid "Using software bill of materials (SBOM) to improve component trust"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957598178}"
+msgid "Decrease a lot"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957598179}"
+msgid "Decrease a little"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957598180}"
+msgid "Stay the same"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957598181}"
+msgid "Increase a little"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957598182}"
+msgid "Increase a lot"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957598183}"
+msgid "Don't know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957839689}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861755}"
+msgid ""
+"<strong>Over the last year, how has the business value your organization "
+"derives from OSS use changed?</strong> (select one)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957667039}"
+msgid "Don’t know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590165}"
+msgid "It has decreased a lot"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590166}"
+msgid "It has decreased a little"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590167}"
+msgid "It has stayed the same"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590168}"
+msgid "It has increased a little"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590169}"
+msgid "It has increased a lot"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957839717}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861756}"
+msgid ""
+"<strong>Do you believe that OSS is more secure than closed source software?</"
+"strong> (select one)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957667617}"
+msgid "Don’t know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590171}"
+msgid "Yes"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590172}"
+msgid "No"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957839718}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 40142366}"
+msgid ""
+"<strong>Tell us about your organization's contributions to open source</"
+"strong>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127863328}"
+msgid ""
+"The following questions all relate to the “contribution” to open source "
+"software by the organization you work for. By contribution we mean any of "
+"the following:<br>• Sending any changes you make to an open source project "
+"back to the original maintainers for inclusion into upcoming releases<br>• "
+"Submitting patches or pull requests to open source projects<br>• Opening "
+"issues, and taking part in online discussions relating to open source "
+"projects"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127926541}"
+msgid ""
+"Because you are a student, unemployed and not looking for work, or retired; "
+"please answer the remaining questions based on your own perspective rather "
+"than the perspective of the organization that the question says you work for."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127863398}"
+msgid ""
+"<strong>How would you describe your organization's contribution to OSS "
+"projects?</strong> (select one)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957668529}"
+msgid "Don't know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957601398}"
+msgid "OSS contributions are not permitted"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957601399}"
+msgid "OSS contributions are permitted if required by the open source license"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957601400}"
+msgid "OSS contributions are openly encouraged"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957601401}"
+msgid "OSS contributions are up to each development team"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957601402}"
+msgid "No clear policy about OSS contributions"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957839947}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 40142462}"
+msgid ""
+"<strong>Tell us about your organization's contributions to open source</"
+"strong>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864121}"
+msgid ""
+"<strong>What steps are followed for contributing OSS code in your "
+"organization?</strong> (select all that apply)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957669460}"
+msgid "Don’t know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605032}"
+msgid "Functional software quality assurance testing"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605033}"
+msgid "Security and vulnerability testing"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605034}"
+msgid "Code review by peers"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605035}"
+msgid "Legal / compliance approval and sign-off"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605036}"
+msgid "Recording of time spent contributing"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605037}"
+msgid "Component documentation"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605038}"
+msgid "SBOM development"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840024}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864122}"
+msgid ""
+"<strong>In which of the following areas does your organization contribute to "
+"OSS?</strong> (select all that apply)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957669770}"
+msgid "Don’t know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605040}"
+msgid "Advanced analytics and data science"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605041}"
+msgid "Artificial Intelligence / Machine Learning"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605042}"
+msgid "Augmented / Virtual reality"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605043}"
+msgid "Blockchain"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605044}"
+msgid "CI/CD & DevOps"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605045}"
+msgid "Cloud / Container technologies"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605046}"
+msgid "Cybersecurity"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605047}"
+msgid "Database and data management"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605048}"
+msgid "DevOps / GitOps / DevSecOps"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605049}"
+msgid "Edge computing"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605050}"
+msgid "IoT & Embedded"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605051}"
+msgid "Kubernetes"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605052}"
+msgid "Linux"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605053}"
+msgid "Manufacturing, 3D printing, and CAD / CAM"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605054}"
+msgid "Networking technologies (5G, SDN, NFV, etc.)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605055}"
+msgid "Open source hardware"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605056}"
+msgid "Storage technologies"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605057}"
+msgid "Web & application development"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957669767}"
+msgid "Please enter a comment."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 957669771}"
+msgid "Other (please specify)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840026}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864123}"
+msgid ""
+"<strong>Has your organization made any of the following OSS contributions?</"
+"strong> (select all that apply)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957671048}"
+msgid "None of the above"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605060}"
+msgid "Contributed code to an open source project"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605061}"
+msgid "Opened an issue on an open source project"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605062}"
+msgid ""
+"Answered queries relating to an open source project on an online community "
+"(e.g., Stack Overflow, Reddit)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605063}"
+msgid "Helped with open source documentation"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605064}"
+msgid "Contributed designs, graphics, or other non-code assets"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605065}"
+msgid "Don’t know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840028}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864124}"
+msgid ""
+"<strong>How often do OSS contributions in your organization deliver the "
+"following benefits:</strong> (select one response per row)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605067}"
+msgid "Improved software quality"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605068}"
+msgid "Improved security"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605069}"
+msgid "Makes the organization a better place to work"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605070}"
+msgid "Enables the IT industry to be more innovative"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605071}"
+msgid "Fulfill a moral obligation to other OSS consumers"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957607243}"
+msgid "Never"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957607244}"
+msgid "Rarely"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957607245}"
+msgid "Sometimes"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957607246}"
+msgid "Often"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957607247}"
+msgid "Always"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957607248}"
+msgid "Don't know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840030}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864125}"
+msgid ""
+"<strong>Over the last year, has the overall benefits your organization "
+"derives from OSS contributions changed?</strong> (select one)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957671743}"
+msgid "Don’t know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605072}"
+msgid "It has decreased a lot"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605073}"
+msgid "It has decreased a little"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605074}"
+msgid "It has stayed the same"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605075}"
+msgid "It has increased a little"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605076}"
+msgid "It has increased a lot"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840032}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864126}"
+msgid ""
+"<strong>Does your organization agree or disagree that its OSS contributions "
+"are limited by:</strong> (select one response per row)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605078}"
+msgid "A clear lack of return on investment"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605079}"
+msgid "A fear of leaking intellectual property (IP)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605080}"
+msgid "Legal or licensing concerns"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605081}"
+msgid "Technology constraints and challenges"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605082}"
+msgid "A lack of policy or training materials"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957609427}"
+msgid "Disagree"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957609428}"
+msgid "Neutral"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957609429}"
+msgid "Agree"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957609430}"
+msgid "Don't know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840033}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864127}"
+msgid ""
+"<strong>How much would OSS contributions change if your organization "
+"invested in the following actions:</strong> (select one response per row)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605083}"
+msgid "Providing clearer policies to employees"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605084}"
+msgid "Providing organization-wide education on the OSS value proposition"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605085}"
+msgid "Funding open source projects"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605086}"
+msgid "Addressing licensing concerns"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605087}"
+msgid "Addressing security concerns"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605088}"
+msgid "Getting involved in industry or government policy making"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605089}"
+msgid "Open sourcing its own products or internal tools"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605090}"
+msgid "Allocating employee time for open source contributions"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957611089}"
+msgid "Decrease a lot"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957611090}"
+msgid "Decrease a little"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957611091}"
+msgid "Stay the same"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957611092}"
+msgid "Increase a little"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957611093}"
+msgid "Increase a lot"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957611094}"
+msgid "Don't know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840072}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864128}"
+msgid ""
+"<strong>Do you spend time at work contributing to projects managed by other "
+"teams within your organization (i.e., inner source projects)?</strong> "
+"(select one)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957672643}"
+msgid "Don’t know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605091}"
+msgid "No"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605092}"
+msgid "1-4 hours per week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605093}"
+msgid "5-10 hours per week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605094}"
+msgid "11-20 hours per week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605095}"
+msgid "21-30 hours per week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605096}"
+msgid "31-40 hours per week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605097}"
+msgid "More than 40 hours per week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840074}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864129}"
+msgid ""
+"<strong>Do you spend time at work contributing to externally distributed "
+"open source projects that your employer founded, adopted, or sponsors?</"
+"strong> (select one)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957673404}"
+msgid "Don’t know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605099}"
+msgid "No"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605100}"
+msgid "1-4 hours per week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605101}"
+msgid "5-10 hours per week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605102}"
+msgid "11-20 hours per week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605103}"
+msgid "21-30 hours per week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605104}"
+msgid "31-40 hours per week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605105}"
+msgid "More than 40 hours per week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840075}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864130}"
+msgid ""
+"<strong>Do you spend time at work contributing to third-party open source "
+"projects (i.e., those where your employer has no commercial relationship)?</"
+"strong> (select one)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957673621}"
+msgid "Don’t know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605107}"
+msgid "No"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605108}"
+msgid "1-4 hours per week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605109}"
+msgid "5-10 hours per week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605110}"
+msgid "11-20 hours per week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605111}"
+msgid "21-30 hours per week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605112}"
+msgid "31-40 hours per week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605113}"
+msgid "More than 40 hours per week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840076}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864133}"
+msgid ""
+"<strong>Do you spend any of your personal time contributing to open source "
+"projects?</strong> (select one)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957673723}"
+msgid "Don’t know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605135}"
+msgid "No"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605136}"
+msgid "1-4 hours per week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605137}"
+msgid "5-10 hours per week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605138}"
+msgid "11-20 hours per week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605139}"
+msgid "21-30 hours per week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605140}"
+msgid "31-40 hours per week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605141}"
+msgid "More than 40 hours per week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840077}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864134}"
+msgid ""
+"<strong>How influential are the following factors when considering whether "
+"or not to contribute your personal time to open source projects?</strong> "
+"(select one response per row)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605144}"
+msgid "Learning and personal development"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605145}"
+msgid "Improving my career opportunities"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605146}"
+msgid "Responsibility towards open source"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605147}"
+msgid "I enjoy working with my peers and the community"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605148}"
+msgid "Fulfilling a technology need not met elsewhere"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957675696}"
+msgid "Not at all influential"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957675697}"
+msgid "Not very influential"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957675698}"
+msgid "Somewhat influential"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957675699}"
+msgid "Very influential"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957675700}"
+msgid "Extremely influential"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957675701}"
+msgid "Don't know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840078}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864135}"
+msgid ""
+"<strong>How do you feel about the third-party OSS projects you contribute to?"
+"</strong> (select one)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957676547}"
+msgid "Don’t know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605149}"
+msgid "I don't contribute to third-party OSS projects"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605150}"
+msgid "I definitely do not feel part of the project"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605151}"
+msgid "I do not feel part of the project"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605152}"
+msgid "I neither feel nor not feel part of the project"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605153}"
+msgid "I feel part of the project"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605154}"
+msgid "I definitely feel part of the project"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840080}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 40143133}"
+msgid "<strong>The value of open source to your organization</strong>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867948}"
+msgid ""
+"<strong>To what extent do you agree or disagree that OSS is valuable to the "
+"future of your organization?</strong> (select one)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957677081}"
+msgid "Don’t know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628185}"
+msgid "Strongly disagree"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628186}"
+msgid "Somewhat disagree"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628187}"
+msgid "Neither agree nor disagree"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628188}"
+msgid "Somewhat agree"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628189}"
+msgid "Strongly agree"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840200}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867949}"
+msgid ""
+"<strong>To what extent do you agree or disagree that open source is valuable "
+"to the future of the industry your organization is a part of?</strong> "
+"(select one)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957677442}"
+msgid "Don’t know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628191}"
+msgid "Strongly disagree"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628192}"
+msgid "Somewhat disagree"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628193}"
+msgid "Neither agree nor disagree"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628194}"
+msgid "Somewhat agree"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628195}"
+msgid "Strongly agree"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840201}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867950}"
+msgid ""
+"<strong>Which open source technologies do you feel are the most valuable to "
+"the future of your industry?</strong> (select between one and three "
+"responses)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957678512}"
+msgid "Don’t know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628197}"
+msgid "Advanced analytics and data science"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628198}"
+msgid "Artificial Intelligence / Machine Learning"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628199}"
+msgid "Augmented / Virtual reality"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628200}"
+msgid "Blockchain"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628201}"
+msgid "CI/CD & DevOps"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628202}"
+msgid "Cloud / Container technologies"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628203}"
+msgid "Cybersecurity"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628204}"
+msgid "Database and data management"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628205}"
+msgid "DevOps / GitOps / DevSecOps"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628206}"
+msgid "Edge computing"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628207}"
+msgid "IoT & Embedded"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628208}"
+msgid "Kubernetes"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628209}"
+msgid "Linux"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628210}"
+msgid "Manufacturing, 3D printing, and CAD / CAM"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628211}"
+msgid "Networking technologies (5G, SDN, NFV, etc.)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628212}"
+msgid "Open source hardware"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628213}"
+msgid "Storage technologies"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628214}"
+msgid "Web & application development"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957678509}"
+msgid "Please enter a comment."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 957678513}"
+msgid "Other (please specify)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957686968}"
+msgid "This question requires between one and three responses."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867951}"
+msgid ""
+"<strong>Which aspects of your industry do you think would most benefit from "
+"open source?</strong> (select all that apply)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957678892}"
+msgid "Don’t know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628217}"
+msgid "Industry standards and interoperability"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628218}"
+msgid "Regulation and legal compliance"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628219}"
+msgid "Transparency"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628220}"
+msgid "Risk management"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628221}"
+msgid "Reduced operating costs"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628222}"
+msgid "Reduced product development costs"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628223}"
+msgid "Productivity"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628224}"
+msgid "Data sharing"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628225}"
+msgid "Collaboration"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628226}"
+msgid "Innovation"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957678889}"
+msgid "Please enter a comment."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 957678893}"
+msgid "Other (please specify)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840202}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867952}"
+msgid ""
+"<strong>Which industries do you think would most benefit from investing in "
+"open source?</strong> (select between one and three responses)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957680133}"
+msgid "Don’t know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628229}"
+msgid "Agriculture"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628230}"
+msgid "Automotive"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628231}"
+msgid "Business services (accounting, management consulting, legal, etc.)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628232}"
+msgid "Consumer packaged goods"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628233}"
+msgid "Construction / engineering"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628234}"
+msgid "Education (K-12, primary, secondary)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628235}"
+msgid "Education (college, university)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628236}"
+msgid "Financial services (banking, insurance, securities, etc.)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628237}"
+msgid "Government (federal, national)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628238}"
+msgid "Government (state, local)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628239}"
+msgid "Health care"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628240}"
+msgid "Hospitality & travel"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628241}"
+msgid "Information technology (IT vendor, service provider, or manufacturer)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628242}"
+msgid "Life sciences (biotech, pharmaceuticals, etc.)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628243}"
+msgid "Manufacturing (discrete or process)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628244}"
+msgid ""
+"Media (broadcast communications, entertainment, publishing, website, social "
+"networking, etc.)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628245}"
+msgid "Mining, oil, and gas"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628246}"
+msgid "Real estate, rental, and leasing"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628247}"
+msgid "Retail, wholesale, & eCommerce"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628248}"
+msgid "Telecommunications / Internet service provider (ISP) / web hosting"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628249}"
+msgid "Transportation & logistics (other than automotive)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628250}"
+msgid "Utilities / energy"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957680130}"
+msgid "Please enter a comment."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 957680134}"
+msgid "Other (please specify)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957681555}"
+msgid "This question requires between one and three responses."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867953}"
+msgid ""
+"<strong>In which areas do you think there should be further investment in "
+"open source across your geographic region?</strong> (select between one and "
+"three responses)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957684960}"
+msgid "Don't know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628253}"
+msgid "Government adoption of open source"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628254}"
+msgid "Better funding of the commercial open source startup ecosystem"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628255}"
+msgid "Better academic education"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628256}"
+msgid "Individual incentives (e.g., grants) to maintainers"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628257}"
+msgid "Mentorship / internship programs"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628258}"
+msgid "Foster open source global technology standards"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628259}"
+msgid "Additional laws like the Digital Services Act and Digital Markets Act"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628260}"
+msgid "Open source as “digital commons” public good"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628261}"
+msgid "Open source alternatives to technology monopolies"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628262}"
+msgid "A friendlier legal landscape for open source"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957684957}"
+msgid "Please enter a comment."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 957684961}"
+msgid "Other (please specify)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957683292}"
+msgid "This question requires one to three responses."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867954}"
+msgid ""
+"<strong>Which of the following statements best characterizes your "
+"organization's use of OSS?</strong> (select one)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957685232}"
+msgid "Don’t know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628265}"
+msgid "Costs greatly exceed the benefits"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628266}"
+msgid "Costs exceed benefits"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628267}"
+msgid "Costs and benefits are about the same"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628268}"
+msgid "Benefits exceed the costs"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628269}"
+msgid "Benefits greatly exceed the costs"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840204}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867955}"
+msgid ""
+"<strong>In general, how should OSS project sustainability be improved?</"
+"strong> (select all that apply)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957685598}"
+msgid "Don't know or not sure"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628271}"
+msgid ""
+"Organizations using OSS should accept having a responsibility to give back "
+"through contributions to OSS standards and projects"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628272}"
+msgid ""
+"Organizations should allow time during working hours for employees to make "
+"meaningful contributions to open source projects and dependencies of "
+"interest to the organization"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628273}"
+msgid ""
+"Organizations using OSS should provide an economic incentive to employees "
+"for meaningful contribution to open source projects and dependencies of "
+"interest to the organization"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628274}"
+msgid ""
+"Employers should proactively sponsor OSS standards and projects for "
+"interoperability across tools to make it less painful for developers to "
+"build pipelines and workflows"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628275}"
+msgid ""
+"Service providers and vendors should sponsor free or deeply discounted tools "
+"and services for use on open source projects"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957685595}"
+msgid "Please enter a comment."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 957685599}"
+msgid "Other (please specify)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840209}"
+msgid "This question requires an answer."
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 40143592}"
+msgid "<strong>Survey Reward</strong>"
+msgstr ""
+
+#, python-format
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127869271}"
+msgid ""
+"Thank you for completing this survey. <strong>WOOS2023</strong> is a "
+"25% discount on any one Linux Foundation e-learning training course or "
+"certification exam, as long as you register for a course before August 30, "
+"2023. You can find the complete catalog of training and certifications at "
+"https://training.linuxfoundation.org/full-catalog/. This discount code is "
+"not valid for any other combination of FINOPS or instructor-led training "
+"courses or certifications."
+msgstr ""
+
+msgctxt "{\"cxt\": \"survey_next\", \"id\": 511771208}"
+msgid "Next"
+msgstr ""
+
+msgctxt "{\"cxt\": \"survey_prev\", \"id\": 511771208}"
+msgid "Prev"
+msgstr ""
+
+msgctxt "{\"cxt\": \"survey_done\", \"id\": 511771208}"
+msgid "Done"
+msgstr ""
+
+msgctxt "{\"cxt\": \"survey_exit\", \"id\": 511771208}"
+msgid "Exit"
+msgstr ""
+
+msgctxt "{\"cxt\": \"survey_ok\", \"id\": 511771208}"
+msgid "OK"
+msgstr ""
+
+msgctxt "{\"cxt\": \"adv_branching_invalidate_question\", \"id\": 127860922}"
+msgid "You can't select I don't know or not sure\" and another option."
+msgstr ""
+
+msgctxt "{\"cxt\": \"adv_branching_invalidate_question\", \"id\": 127864123}"
+msgid "You can't select I don't know or not sure\" and another option."
+msgstr ""
+
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450974742}"
+msgid "Thank you for completing our survey!"
+msgstr ""
+
+msgctxt "{\"cxt\": \"collector_thankyou\", \"id\": 450600999}"
+msgid ""
+"Thank you for completing the World of Open Source: 2023 Global Spotlight "
+"survey!"
+msgstr ""
+
+#, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450600999}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The "
+"complete catalog of training and certifications is at https://training."
+"linuxfoundation.org/full-catalog/."
+msgstr ""
+
+#, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450954964}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The "
+"complete catalog of training and certifications is at https://training."
+"linuxfoundation.org/full-catalog/."
+msgstr ""
+
+#, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450994726}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The "
+"complete catalog of training and certifications is at https://training."
+"linuxfoundation.org/full-catalog/."
+msgstr ""
+
+#, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 451008534}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The "
+"complete catalog of training and certifications is at https://training."
+"linuxfoundation.org/full-catalog/."
+msgstr ""
+
+#, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450994453}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The "
+"complete catalog of training and certifications is at https://training."
+"linuxfoundation.org/full-catalog/."
+msgstr ""
+
+#, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450994418}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The "
+"complete catalog of training and certifications is at https://training."
+"linuxfoundation.org/full-catalog/."
+msgstr ""
+
+#, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450961203}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The "
+"complete catalog of training and certifications is at https://training."
+"linuxfoundation.org/full-catalog/."
+msgstr ""
+
+#, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450961189}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The "
+"complete catalog of training and certifications is at https://training."
+"linuxfoundation.org/full-catalog/."
+msgstr ""
+
+#, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450961157}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The "
+"complete catalog of training and certifications is at https://training."
+"linuxfoundation.org/full-catalog/."
+msgstr ""
+
+msgctxt "{\"cxt\": \"collector_thankyou\", \"id\": 450763440}"
+msgid ""
+"Thank you for completing the World of Open Source: 2023 Global Spotlight "
+"survey!"
+msgstr ""
+
+#, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450763440}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The "
+"complete catalog of training and certifications is at https://training."
+"linuxfoundation.org/full-catalog/."
+msgstr ""
+
+#, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450954202}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The "
+"complete catalog of training and certifications is at https://training."
+"linuxfoundation.org/full-catalog/."
+msgstr ""
+
+#, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450944433}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The "
+"complete catalog of training and certifications is at https://training."
+"linuxfoundation.org/full-catalog/."
+msgstr ""
+
+#, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450861377}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The "
+"complete catalog of training and certifications is at https://training."
+"linuxfoundation.org/full-catalog/."
+msgstr ""
+
+#, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450861355}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The "
+"complete catalog of training and certifications is at https://training."
+"linuxfoundation.org/full-catalog/."
+msgstr ""
+
+#, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450847257}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The "
+"complete catalog of training and certifications is at https://training."
+"linuxfoundation.org/full-catalog/."
+msgstr ""
