@@ -1,0 +1,3280 @@
+# Chinese (Traditional) translations for survey.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-05-08 17:18+0000\n"
+"PO-Revision-Date: 2023-05-10 15:13+0800\n"
+"Last-Translator: \n"
+"Language-Team: zh_hant <LL@li.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"survey_title_html\", \"id\": 511771208}"
+msgid "World of Open Source: Global Spotlight 2023"
+msgstr "開源世界：2023年全球聚焦"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 39733434}"
+msgid "<strong>Introduction</strong>"
+msgstr "<strong>介紹</strong>"
+
+#, fuzzy, python-format
+msgctxt "{\"cxt\": \"page_subheading\", \"id\": 39733434}"
+msgid ""
+"<div>\n"
+"<div>Thank you for participating in the Linux Foundation's World of Open "
+"Source: 2023 Global Spotlight survey, which aims to better understand the "
+"dynamics of open source across regions and industries.</div>\n"
+"<div> </div>\n"
+"<div>Your responses are anonymous and will be used to compile a report to be "
+"released later this year.</div>\n"
+"<div> </div>\n"
+"<div>As a thank you for participating in this research, once you have "
+"completed the survey, a code will be displayed on the confirmation page which "
+"can be used for a 25% discount on any Linux Foundation training course or "
+"certification exam listed in our catalog: https://training.linuxfoundation."
+"org/full-catalog/.</div>\n"
+"<div> </div>\n"
+"<div>Your name and/or organization name will not be displayed. Reviews are "
+"attributed to your role, organization size, and industry. Responses will be "
+"subject to the Linux Foundation’s Privacy Policy, available at https://"
+"linuxfoundation.org/privacy. Please note that research partners who are not "
+"Linux Foundation employees will review the survey results. Survey partners "
+"are not permitted to use your data for other purposes.</div>\n"
+"</div>"
+msgstr ""
+"<div>\n"
+"<div>感謝您參與Linux基金會的「開源世界：2023年全球聚焦」調查，該調查旨在更好地"
+"瞭解跨地區和行業的開源動態。</div>\n"
+"<div> </div>\n"
+"<div>您的回復是匿名的，將用於編製將於今年晚些時候發佈的報告。</div>\n"
+"<div> </div>\n"
+"<div>為了感謝您參與這項研究，一旦您完成調查，確認頁面上將顯示一個代碼，可用於"
+"我們目錄中列出的任何 Linux 基礎培訓課程或認證考試的 25% d個計數：https://"
+"training.linuxfoundation.org/full-catalog/。</div>\n"
+"<div> </div>\n"
+"<div>您的姓名和/或組織名稱將不會顯示。評價歸因於您的角色、組織規模和行業。回復"
+"將受Linux基金會隱私政策的約束，可在 https://linuxfoundation.org/privacy 上找"
+"到。請注意，非 Linux 基金會員工的研究合作夥伴將查看調查結果。調查合作夥伴不得"
+"將您的數據用於其他目的。</div>\n"
+"</div>"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 40141391}"
+msgid "<strong>Introductory Questions</strong>"
+msgstr "<strong>介紹性問題</strong>"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127858594}"
+msgid ""
+"<strong>What is your level of familiarity with how your organization uses and "
+"contributes to open source software (OSS)?</strong> (select one)"
+msgstr ""
+"<strong>您對組織如何使用開源軟體 （OSS） 並為其做出貢獻的熟悉程度如何？</"
+"strong> （選擇一項）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957641631}"
+msgid "Don't know or not sure"
+msgstr "不知道或不確定"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569422}"
+msgid "Not at all familiar"
+msgstr "一點也不熟悉"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569423}"
+msgid "A little familiar"
+msgstr "有點熟悉"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569424}"
+msgid "Somewhat familiar"
+msgstr "有點熟悉"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569425}"
+msgid "Very familiar"
+msgstr "很熟悉"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569426}"
+msgid "Extremely familiar"
+msgstr "非常熟悉"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957834010}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127858595}"
+msgid ""
+"<strong>Please indicate what best describes who you are.</strong> (select one)"
+msgstr "<strong>請指出什麼最能描述你是誰。</strong> （選擇一項）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569428}"
+msgid "I'm just lines of code"
+msgstr "我只是幾行代碼"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569429}"
+msgid "I am a real person"
+msgstr "我是一個真實的人"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569430}"
+msgid "I am a bot"
+msgstr "我是機器人"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569431}"
+msgid "I just want to mess with the researchers"
+msgstr "我只是想惹研究人員"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569432}"
+msgid "Don't know or not sure"
+msgstr "不知道或不確定"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957834011}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127858596}"
+msgid ""
+"<strong>When talking about your organization's use of software, what "
+"perspective can you speak for?</strong> (select one)"
+msgstr ""
+"<strong>在談論您的組織對軟體的使用時，您可以代表什麼觀點？</strong> （選擇一"
+"項）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957642019}"
+msgid "Don't know or not sure"
+msgstr "不知道或不確定"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569433}"
+msgid "I can speak for the entire company or organization that I work for"
+msgstr "我可以代表我工作的整個公司或組織發言"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569434}"
+msgid ""
+"I can only speak for the department I work for within the company or "
+"organization"
+msgstr "我只能代表我在公司或組織內工作的部門發言"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569435}"
+msgid ""
+"I work for multiple organizations and can speak for what I see in the industry"
+msgstr "我為多個組織工作，可以代表我在行業中所看到的"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569436}"
+msgid "I can speak only for myself"
+msgstr "我只能為自己說話"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957834012}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127858597}"
+msgid "<strong>What is your current employment status?</strong> (select one)"
+msgstr "<strong>您目前的就業狀況如何？</strong> （選擇一項）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957643224}"
+msgid "Don't know or not sure"
+msgstr "不知道或不確定"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569438}"
+msgid "Student, full time or part time"
+msgstr "學生，全日制或兼職"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569439}"
+msgid "Recent graduate, but not yet employed"
+msgstr "應屆畢業生，但尚未就業"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569440}"
+msgid "Employed, full time"
+msgstr "受雇，全職"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569441}"
+msgid "Employed, part time"
+msgstr "就業，兼職"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569442}"
+msgid "Self-employed, full or part time"
+msgstr "自雇人士，全職或兼職"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569443}"
+msgid "Unemployed but previously employed and looking for work"
+msgstr "失業但以前就業並正在尋找工作"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569444}"
+msgid "Unemployed, and not currently looking for work"
+msgstr "失業，目前沒有找工作"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569445}"
+msgid "Retired"
+msgstr "退休"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957834013}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 40141644}"
+msgid "<strong>Tell us about yourself</strong>"
+msgstr "<strong>介紹一下您自己</strong>"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127859996}"
+msgid ""
+"Since you are currently looking for employment, please answer this survey "
+"from the perspective of your last employer."
+msgstr "由於您目前正在找工作，請從您上一個僱主的角度回答此調查。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127859820}"
+msgid ""
+"<strong>In what country or region does your organization have its "
+"headquarters?</strong> (select one)"
+msgstr "<strong>您的組織總部在哪個國家或地區？</strong> （選擇一項）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577134}"
+msgid "North America (United States or Canada)"
+msgstr "北美（美國或加拿大）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577135}"
+msgid "Mexico, Central America, and the Caribbean"
+msgstr "墨西哥、中美洲和加勒比地區"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577136}"
+msgid "South America"
+msgstr "南美"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577137}"
+msgid "Western Europe"
+msgstr "西歐"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957849528}"
+msgid "Eastern Europe (excluding Russia)"
+msgstr "東歐（不包括俄羅斯）"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577138}"
+msgid "Middle East"
+msgstr "中東"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577139}"
+msgid "North Africa"
+msgstr "北非"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577140}"
+msgid "West and Central Africa"
+msgstr "西非和中非"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577141}"
+msgid "Eastern and Southern Africa"
+msgstr "東部和南部非洲"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577142}"
+msgid "China"
+msgstr "中國"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577143}"
+msgid "India"
+msgstr "印度"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577144}"
+msgid "Japan"
+msgstr "日本"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577145}"
+msgid "Russia"
+msgstr "俄羅斯"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577146}"
+msgid "Asia (except China, India, Japan, and Russia)"
+msgstr "亞洲（中國、印度、日本和俄羅斯除外）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577147}"
+msgid "Oceania (including Australia and New Zealand)"
+msgstr "大洋洲（包括澳大利亞和紐西蘭）"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957644354}"
+msgid "Please enter a comment."
+msgstr "請留下您的評價。"
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 957644357}"
+msgid "Other (please specify)"
+msgstr "其他（请列明）"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957834120}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127859821}"
+msgid ""
+"<strong>Professionally, which role do you most closely identify with?</"
+"strong> (select one)"
+msgstr "<strong>在職業上，您最認同哪個角色？</strong> （選擇一項）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577149}"
+msgid "Software development (developer, engineer, architect, etc.)"
+msgstr "軟體開發（開發人員、工程師、架構師等）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577150}"
+msgid "Software delivery (packaging, release, QA)"
+msgstr "軟體交付（打包、發佈、質量保證）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577151}"
+msgid "Software development or delivery management - director or vice president"
+msgstr "軟體開發或交付管理 - 總監或副總裁"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577152}"
+msgid "Systems operations, administration, SRE, or ITSM"
+msgstr "系統運營、管理、SRE 或 ITSM"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577153}"
+msgid "Systems operations management - director or vice president"
+msgstr "系統運營管理 - 總監或副總裁"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577154}"
+msgid "Security team"
+msgstr "安全團隊"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577155}"
+msgid "Business analyst"
+msgstr "業務分析師"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577156}"
+msgid "Data scientist or machine learning"
+msgstr "數據科學家或機器學習"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577157}"
+msgid "Product or project management"
+msgstr "產品或專案管理"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577158}"
+msgid "Open source program office (OSPO) team"
+msgstr "開源項目辦公室 （OSPO） 團隊"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577159}"
+msgid "C-level (CEO, CFO, CTO, CIO, CISO, CSO)"
+msgstr ""
+"C級（首席執行官，首席財務官，首席技術官，首席資訊官，首席資訊官，首席資訊安全"
+"官）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577160}"
+msgid "Sales and marketing"
+msgstr "銷售和行銷"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577161}"
+msgid "Legal counsel"
+msgstr "法律顧問"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577162}"
+msgid "Academia / Education"
+msgstr "學術/教育"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957645013}"
+msgid "Please enter a comment."
+msgstr "請留下您的評價。"
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 957645016}"
+msgid "Other (please specify)"
+msgstr "其他（请列明）"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957834121}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 40141758}"
+msgid "<strong>Tell us about the organization you work for</strong>"
+msgstr "<strong>告訴我們您工作的組織</strong>"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127860454}"
+msgid ""
+"<strong>What option best describes the organization you work for?</strong> "
+"(select one)"
+msgstr "<strong>哪個選項最能描述您工作的組織？</strong> （選擇一項）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581531}"
+msgid ""
+"“End user” organization. An organization that primarily uses IT products and "
+"services to support their business deliverables"
+msgstr "“最終使用者”組織。主要使用 IT 產品和服務來支援其業務可交付成果的組織"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581532}"
+msgid "Hardware / software vendor"
+msgstr "硬體/軟體供應商"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581533}"
+msgid "Hardware / software supplier"
+msgstr "硬體/軟體供應商"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581534}"
+msgid "Embedded systems vendor"
+msgstr "嵌入式系統供應商"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581535}"
+msgid "System integrator or IT consulting firm"
+msgstr "系統集成商或 IT 諮詢公司"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581536}"
+msgid "Cloud service provider or managed service provider"
+msgstr "雲服務提供者或託管服務提供者"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581537}"
+msgid "Software reseller or distributor"
+msgstr "軟體轉銷商或分銷商"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581538}"
+msgid "Non-profit association or foundation"
+msgstr "非營利協會或基金會"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581539}"
+msgid "Academic or research institution"
+msgstr "學術或研究機構"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581540}"
+msgid "Government entity or agency"
+msgstr "政府實體或機構"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957645601}"
+msgid "Please enter a comment."
+msgstr "請留下您的評價。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_other\", \"id\": 957645604}"
+msgid "Other entity (please specify)"
+msgstr "其他實體（請註明）"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957834154}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 40141833}"
+msgid "<strong>Tell us about the organization you work for</strong>"
+msgstr "<strong>告訴我們您工作的組織</strong>"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127860830}"
+msgid ""
+"Since you are employed by a system integrator, consulting firm, CSP, or "
+"software reseller/distributor, please answer the remaining questions on "
+"behalf of the most current client you are primarily working for."
+msgstr ""
+"由於您受雇於系統集成商、諮詢公司、CSP 或軟體轉銷商/分銷商，因此請代表您主要工"
+"作的最新客戶回答其餘問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127860919}"
+msgid ""
+"<strong>Which of the following best describes your organization's primary "
+"industry?</strong> (select one)"
+msgstr "<strong>以下哪項最能描述組織的主要行業？</strong> （選擇一項）"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584345}"
+msgid "Agriculture"
+msgstr "農業"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584346}"
+msgid "Automotive"
+msgstr "汽車"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584347}"
+msgid "Business services (accounting, management consulting, legal, etc.)"
+msgstr "商務服務（會計、管理諮詢、法律等）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584348}"
+msgid "Consumer packaged goods"
+msgstr "包裝消費品"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584349}"
+msgid "Construction / engineering"
+msgstr "建築/工程"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584350}"
+msgid "Education (K-12, primary, secondary)"
+msgstr "教育（K-12，小學，中學）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584351}"
+msgid "Education (college, university)"
+msgstr "教育（學院、大學）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584352}"
+msgid "Financial services (banking, insurance, securities, etc.)"
+msgstr "金融服務（銀行、保險、證券等）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584353}"
+msgid "Government (federal, national)"
+msgstr "政府（聯邦、國家）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584354}"
+msgid "Government (state, local)"
+msgstr "政府（州、地方）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584355}"
+msgid "Health care"
+msgstr "保健"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584356}"
+msgid "Hospitality & travel"
+msgstr "酒店和旅遊"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584357}"
+msgid "Life sciences (biotech, pharmaceuticals, etc.)"
+msgstr "生命科學（生物技術、製藥等）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584358}"
+msgid "Manufacturing (discrete or process)"
+msgstr "製造（離散或過程）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584359}"
+msgid ""
+"Media (broadcast communications, entertainment, publishing, website, social "
+"networking, etc.)"
+msgstr "媒體（廣播通信、娛樂、出版、網站、社交網路等）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584360}"
+msgid "Mining, oil, and gas"
+msgstr "採礦、石油和天然氣"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584361}"
+msgid "Real estate, rental, and leasing"
+msgstr "房地產、租賃和租賃"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584362}"
+msgid "Retail, wholesale, & eCommerce"
+msgstr "零售、批發和電子商務"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584363}"
+msgid "Telecommunications / Internet service provider (ISP) / web hosting"
+msgstr "電信/互聯網服務提供者（ISP）/虛擬主機"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584364}"
+msgid "Transportation & logistics (other than automotive)"
+msgstr "運輸和物流（汽車除外）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584365}"
+msgid "Utilities / energy"
+msgstr "公用事業/能源"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957646117}"
+msgid "Please enter a comment."
+msgstr "請留下您的評價。"
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 957646120}"
+msgid "Other (please specify)"
+msgstr "其他（请列明）"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957838859}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127860920}"
+msgid ""
+"<strong>Which of the following best describes your organization's primary "
+"industry?</strong> (select one)"
+msgstr "<strong>以下哪項最能描述組織的主要行業？</strong> （選擇一項）"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584367}"
+msgid "Agriculture"
+msgstr "農業"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584368}"
+msgid "Automotive"
+msgstr "汽車"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584369}"
+msgid "Business services (accounting, management consulting, legal, etc.)"
+msgstr "商務服務（會計、管理諮詢、法律等）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584370}"
+msgid "Consumer packaged goods"
+msgstr "包裝消費品"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584371}"
+msgid "Construction / engineering"
+msgstr "建築/工程"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584372}"
+msgid "Education (K-12, primary, secondary)"
+msgstr "教育（K-12，小學，中學）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584373}"
+msgid "Education (college, university)"
+msgstr "教育（學院、大學）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584374}"
+msgid "Financial services (banking, insurance, securities, etc.)"
+msgstr "金融服務（銀行、保險、證券等）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584375}"
+msgid "Government (federal, national)"
+msgstr "政府（聯邦、國家）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584376}"
+msgid "Government (state, local)"
+msgstr "政府（州、地方）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584377}"
+msgid "Health care"
+msgstr "保健"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584378}"
+msgid "Hospitality & travel"
+msgstr "酒店和旅遊"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584379}"
+msgid "Life sciences (biotech, pharmaceuticals, etc.)"
+msgstr "生命科學（生物技術、製藥等）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584380}"
+msgid "Manufacturing (discrete or process)"
+msgstr "製造（離散或過程）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584381}"
+msgid ""
+"Media (broadcast communications, entertainment, publishing, website, social "
+"networking, etc.)"
+msgstr "媒體（廣播通信、娛樂、出版、網站、社交網路等）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584382}"
+msgid "Mining, oil, and gas"
+msgstr "採礦、石油和天然氣"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584383}"
+msgid "Real estate, rental, and leasing"
+msgstr "房地產、租賃和租賃"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584384}"
+msgid "Retail, wholesale, & eCommerce"
+msgstr "零售、批發和電子商務"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584385}"
+msgid "Telecommunications / Internet service provider (ISP) / web hosting"
+msgstr "電信/互聯網服務提供者（ISP）/虛擬主機"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584386}"
+msgid "Transportation & logistics (other than automotive)"
+msgstr "運輸和物流（汽車除外）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584387}"
+msgid "Utilities / energy"
+msgstr "公用事業/能源"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584388}"
+msgid ""
+"Cross-industry Information technology (IT vendor, service provider, or "
+"manufacturer)"
+msgstr "跨行業資訊技術（IT 供應商、服務提供者或製造商）"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957650477}"
+msgid "Please enter a comment."
+msgstr "請留下您的評價。"
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 957650480}"
+msgid "Other (please specify)"
+msgstr "其他（请列明）"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957838860}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127860921}"
+msgid ""
+"<strong>Please estimate how many employees your organization has worldwide.</"
+"strong> (select one)"
+msgstr "<strong>請估計您的組織在全球擁有多少名員工。</strong>（選擇一項）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957651112}"
+msgid "Don't know or not sure"
+msgstr "不知道或不確定"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584390}"
+msgid "1 to 10"
+msgstr "1 到 10"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584391}"
+msgid "11 to 49"
+msgstr "11 到 49"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584392}"
+msgid "50 to 249"
+msgstr "50 到 249"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584393}"
+msgid "250 to 999"
+msgstr "250 到 999"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584394}"
+msgid "1,000 to 9,999"
+msgstr "1，000 到 9，999"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584395}"
+msgid "10,000 to 19,999"
+msgstr "10，000 到 19，999"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584396}"
+msgid "20,000 or more"
+msgstr "20，000 或更多"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957838861}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127860922}"
+msgid ""
+"<strong>Which of the following actions has your organization engaged in "
+"regarding OSS?</strong> (select all that apply)"
+msgstr ""
+"<strong>貴組織在OSS方面採取了以下哪些行動？</strong> （選擇所有適用項目）"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957652493}"
+msgid "None of the above"
+msgstr "以上都不是"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584398}"
+msgid "Implemented an OSPO (Open Source Program Office)"
+msgstr "實施OSPO（開源計劃辦公室）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584399}"
+msgid "Defined a clear and visible open source strategy"
+msgstr "定義清晰可見的開源策略"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584400}"
+msgid "Defined a public position on open source"
+msgstr "定義了開源的公開立場"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584401}"
+msgid "Joined or associated with open source organizations"
+msgstr "加入或關聯開源組織"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584402}"
+msgid "Don't know or not sure"
+msgstr "不知道或不確定"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957838862}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 40141938}"
+msgid "<strong>Tell us about your organization's use of OSS</strong>"
+msgstr "<strong>告訴我們貴組織對 OSS 的使用方式</strong>"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861305}"
+msgid ""
+"The following questions all relate to the “use” of open source software in "
+"your organization. By use, we mean any of the following:<br>• Use of open "
+"source libraries as dependencies in a codebase<br>• Copy and paste of open "
+"source code into a codebase<br>• Use of open source tooling in the creation "
+"or deployment of a codebase"
+msgstr ""
+"以下問題都與組織中開源軟體的“使用”有關。使用是指以下任何一項：<br>• 使用開源庫"
+"作為代碼庫中的依賴項<br>• 將開原始程式碼複製並貼到代碼庫中<br>• 在建立或部署代"
+"碼庫時使用開原始程式工具"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861401}"
+msgid "<strong>How much does your organization use OSS?</strong> (select one)"
+msgstr "<strong>貴組織使用OSS的次數是多少？</strong> （選擇一項）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957653824}"
+msgid "Don't know or not sure"
+msgstr "不知道或不確定"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957587536}"
+msgid "No use of open source"
+msgstr "不使用開源"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957587537}"
+msgid "Minimal use of open source"
+msgstr "最少使用開源"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957587538}"
+msgid "Moderate use of open source"
+msgstr "適度使用開源"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957587539}"
+msgid "Significant use of open source"
+msgstr "大量使用開源"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957587540}"
+msgid "Widespread use of open source"
+msgstr "開源的廣泛使用"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957839595}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861402}"
+msgid ""
+"<strong>To what extent is open source use permitted in your organization?</"
+"strong> (select one)"
+msgstr "<strong>您的組織在多大程度上允許使用開源？</strong> （選擇一項）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957654195}"
+msgid "Don't know or not sure"
+msgstr "不知道或不確定"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957587542}"
+msgid "Use of OSS is not permitted"
+msgstr "不允許使用一站式申報系統"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957587543}"
+msgid "Use of OSS is permitted under limited circumstances"
+msgstr "允許在有限的情況下使用開放源碼軟體"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957587544}"
+msgid "Use of OSS is openly encouraged"
+msgstr "公開鼓勵使用開放源碼軟體"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957587545}"
+msgid "Use of OSS is up to each development team"
+msgstr "OSS 的使用取決於每個開發團隊"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957587546}"
+msgid "No clear policy"
+msgstr "沒有明確的政策"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957839596}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 40142024}"
+msgid "<strong>Tell us about your organization's use of OSS</strong>"
+msgstr "<strong>告訴我們貴組織對 OSS 的使用方式</strong>"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861749}"
+msgid ""
+"<strong>What practices does your organization follow regarding the use of OSS?"
+"</strong> (select all that apply)"
+msgstr ""
+"<strong>貴組織在使用開放源碼軟體方面遵循哪些做法？</strong> （選擇所有適用項"
+"目）"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957656301}"
+msgid "None of the above"
+msgstr "以上都不是"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590103}"
+msgid ""
+"We engage with outside professionals to determine what OSS components we "
+"should use"
+msgstr "我們與外部專業人士合作，以確定我們應該使用哪些 OSS 元件"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590104}"
+msgid "We have a formal review process for evaluating OSS components"
+msgstr "我們有一個正式的審查流程來評估OSS元件"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590105}"
+msgid "We have internal manuals, checklists, or guidelines for using OSS"
+msgstr "我們有使用OSS的內部手冊，清單或指南"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590106}"
+msgid "We recommend developer training on secure software development"
+msgstr "我們建議對開發人員進行安全軟體開發培訓"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590107}"
+msgid "We require developer training in secure software development"
+msgstr "我們需要對開發人員進行安全軟體開發方面的培訓"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590108}"
+msgid "Our OSPO works with developers to ensure its policies are followed"
+msgstr "我們的OSPO與開發商合作，確保其政策得到遵守"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590110}"
+msgid "Don't know or not sure"
+msgstr "不知道或不確定"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957839645}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861750}"
+msgid ""
+"<strong>What actions does your organization usually take before using a new "
+"OSS component?</strong> (select all that apply)"
+msgstr ""
+"<strong>在使用新的 OSS 元件之前，您的組織通常會採取哪些操作？</strong> （選擇"
+"所有適用項目）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957661406}"
+msgid "Don't know or not sure"
+msgstr "不知道或不確定"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590111}"
+msgid "We don't review or evaluate the OSS components that we use"
+msgstr "我們不會審查或評估我們使用的 OSS 元件"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590112}"
+msgid "We manually review/inspect the source code"
+msgstr "我們手動審查/檢查原始程式碼"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590113}"
+msgid ""
+"We evaluate the source code using automated tools (SCA, SAST, Fuzz Testing, "
+"web app scanners, etc.)"
+msgstr ""
+"我們使用自動化工具（SCA、SAST、模糊測試、Web 應用程式掃描器等）評估原始程式"
+"碼。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590114}"
+msgid ""
+"We evaluate the direct dependencies of the OSS code to determine if it's too "
+"risky to use"
+msgstr "我們評估 OSS 代碼的直接依賴關係，以確定使用它是否風險太大"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590115}"
+msgid ""
+"We evaluate the transitive dependencies of the OSS code to determine if it's "
+"too risky to use"
+msgstr "我們評估 OSS 代碼的傳遞依賴關係，以確定使用它是否風險太大"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590116}"
+msgid "We look at repository ratings or package downloads statistics"
+msgstr "我們查看存儲庫評級或套件下載統計資訊"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590117}"
+msgid "We look at the frequency of releases"
+msgstr "我們看發佈的頻率"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590118}"
+msgid ""
+"We check the activity level of the project community (contributors, commits, "
+"etc.)"
+msgstr "我們檢查專案社區的活動級別（貢獻者、提交者等）。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590119}"
+msgid ""
+"We check if the project has a responsible disclosure policy (such as a "
+"SECURITY.md)"
+msgstr "我們檢查專案是否有負責任的披露政策（例如 SECURITY.md）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590120}"
+msgid ""
+"We check the component against a risk policy or risk calculations that we do"
+msgstr "我們根據風險政策或我們所做的風險計算檢查元件"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957839647}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861751}"
+msgid ""
+"<strong>In which of the following areas does your organization use OSS?</"
+"strong> (select all that apply)"
+msgstr "<strong>貴組織在以下哪些方面使用 OSS？</strong> （選擇所有適用項目）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957661904}"
+msgid "Don’t know or not sure"
+msgstr "不知道或不確定"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590122}"
+msgid "Advanced analytics and data science"
+msgstr "高級分析和數據科學"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590123}"
+msgid "Artificial Intelligence / Machine Learning"
+msgstr "人工智慧/機器學習"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590124}"
+msgid "Augmented / Virtual reality"
+msgstr "增強/虛擬實境"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590125}"
+msgid "Blockchain"
+msgstr "以太坊區塊鏈網路"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590126}"
+msgid "CI/CD & DevOps"
+msgstr "CI/CD & DevOps"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590127}"
+msgid "Cloud / Container technologies"
+msgstr "雲/容器技術"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590128}"
+msgid "Cybersecurity"
+msgstr "網路安全"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590129}"
+msgid "Database and data management"
+msgstr "資料庫和數據管理"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590130}"
+msgid "DevOps / GitOps / DevSecOps"
+msgstr "DevOps / GitOps / DevSecOps"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590131}"
+msgid "Edge computing"
+msgstr "邊緣計算"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590132}"
+msgid "IoT & Embedded"
+msgstr "物聯網和嵌入式"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590133}"
+msgid "Kubernetes"
+msgstr "Kubernetes"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590134}"
+msgid "Linux"
+msgstr "Linux"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590135}"
+msgid "Manufacturing, 3D printing, and CAD / CAM"
+msgstr "製造、3D 列印和 CAD/CAM"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590136}"
+msgid "Networking technologies (5G, SDN, NFV, etc.)"
+msgstr "網路技術（5G、SDN、NFV 等）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590137}"
+msgid "Open source hardware"
+msgstr "開源硬體"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590138}"
+msgid "Storage technologies"
+msgstr "存儲技術"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590139}"
+msgid "Web & application development"
+msgstr "網路和應用程式開發"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957661901}"
+msgid "Please enter a comment."
+msgstr "請留下您的評價。"
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 957661905}"
+msgid "Other (please specify)"
+msgstr "其他（请列明）"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957839678}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861752}"
+msgid ""
+"<strong>How often does using OSS deliver the following benefits in your "
+"organization?</strong> (select one response per row)"
+msgstr ""
+"<strong>使用OSS多久在您的組織中提供以下好處？</strong> （每行選擇一個回應）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590142}"
+msgid "Improved software quality"
+msgstr "提高軟體品質"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590143}"
+msgid "Improved productivity"
+msgstr "提高生產率"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590144}"
+msgid "Improved security"
+msgstr "提高安全性"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590145}"
+msgid "Lower cost of software ownership"
+msgstr "降低軟體擁有成本"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590146}"
+msgid "Lower cost of IT operations"
+msgstr "降低 IT 運營成本"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590147}"
+msgid "Less vendor lock-in"
+msgstr "減少供應商鎖定"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590148}"
+msgid "Facilitates  innovation"
+msgstr "促進創新"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590149}"
+msgid "Make the organization a better place to work"
+msgstr "讓組織成為更好的工作場所"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590150}"
+msgid "Less development time to market"
+msgstr "縮短開發上市時間"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957593684}"
+msgid "Never"
+msgstr "從不"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957593685}"
+msgid "Rarely"
+msgstr "นานๆ ครั้ง"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957593686}"
+msgid "Sometimes"
+msgstr "有時候"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957593687}"
+msgid "Often"
+msgstr "บ่อยครั้ง"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957593688}"
+msgid "Always"
+msgstr "總是"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957593689}"
+msgid "Don't know or not sure"
+msgstr "不知道或不確定"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957839680}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861753}"
+msgid ""
+"<strong>Do you agree or disagree that OSS use in your organization is limited "
+"by:</strong> (select one response per row)"
+msgstr ""
+"<strong>您是否同意或不同意OSS在您的組織中的使用受到以下限制：</strong> （每行"
+"選擇一個回應）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590151}"
+msgid "A lack of understanding of the non-technical value proposition"
+msgstr "缺乏對非技術價值主張的理解"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590152}"
+msgid "Licensing of intellectual property (IP) concerns"
+msgstr "智慧財產權許可問題"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590153}"
+msgid ""
+"A lack of a clear policy or supporting training and guidance on how to use OSS"
+msgstr "缺乏關於如何使用開放源碼軟體的明確政策或支援性培訓和指導"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590154}"
+msgid "External regulations or other formal restrictions"
+msgstr "外部法規或其他正式限制"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590155}"
+msgid "Concerns about the quality of OSS components"
+msgstr "對OSS元件質量的擔憂"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590156}"
+msgid "Concerns about the security of OSS components"
+msgstr "對 OSS 元件安全性的擔憂"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957595238}"
+msgid "Disagree"
+msgstr "不同意"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957595239}"
+msgid "Neutral"
+msgstr "中立"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957595240}"
+msgid "Agree"
+msgstr "同意"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957595241}"
+msgid "Don't know or not sure"
+msgstr "不知道或不確定"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957839687}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861754}"
+msgid ""
+"<strong>How much would OSS use change if your organization invested in the "
+"following:</strong> (select one response per row)"
+msgstr ""
+"<strong>如果您的組織在以下方面進行了投資，OSS 將使用多少更改：</strong> （每行"
+"選擇一個回應）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590157}"
+msgid "Understanding the non-technical value proposition of OSS"
+msgstr "瞭解 OSS 的非技術價值主張"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590158}"
+msgid "Implementing or improving an Open Source Program Office (OSPO)"
+msgstr "實施或改進開源計劃辦公室 （OSPO）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590159}"
+msgid "Developing a clear and visible strategy for OSS"
+msgstr "為開放源碼軟體制定清晰可見的戰略"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590160}"
+msgid "Implementing a consistent policy or supporting training and guidance"
+msgstr "實施一致的政策或支持培訓和指導"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590161}"
+msgid "Improving legal, compliance, or security support"
+msgstr "改進法律、合規性或安全支援"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590162}"
+msgid "Providing automated tooling to support policy"
+msgstr "提供自動化工具以支援策略"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590163}"
+msgid "Improving how we do secure software development"
+msgstr "改進我們進行安全軟體開發的方式"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590164}"
+msgid "Using software bill of materials (SBOM) to improve component trust"
+msgstr "使用軟體物料清單 （SBOM） 提高元件信任度"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957598178}"
+msgid "Decrease a lot"
+msgstr "減少很多"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957598179}"
+msgid "Decrease a little"
+msgstr "減少一點"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957598180}"
+msgid "Stay the same"
+msgstr "保持不變"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957598181}"
+msgid "Increase a little"
+msgstr "增加一點"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957598182}"
+msgid "Increase a lot"
+msgstr "增加很多"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957598183}"
+msgid "Don't know or not sure"
+msgstr "不知道或不確定"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957839689}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861755}"
+msgid ""
+"<strong>Over the last year, how has the business value your organization "
+"derives from OSS use changed?</strong> (select one)"
+msgstr ""
+"<strong>在過去的一年中，您的組織從OSS使用中獲得的業務價值發生了哪些變化？</"
+"strong> （選擇一項）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957667039}"
+msgid "Don’t know or not sure"
+msgstr "不知道或不確定"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590165}"
+msgid "It has decreased a lot"
+msgstr "它已經減少了很多"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590166}"
+msgid "It has decreased a little"
+msgstr "它有所下降"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590167}"
+msgid "It has stayed the same"
+msgstr "它一直保持不變"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590168}"
+msgid "It has increased a little"
+msgstr "它增加了一點"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590169}"
+msgid "It has increased a lot"
+msgstr "它增加了很多"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957839717}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861756}"
+msgid ""
+"<strong>Do you believe that OSS is more secure than closed source software?</"
+"strong> (select one)"
+msgstr "<strong>您認為 OSS 比閉源軟體更安全嗎？</strong> （選擇一項）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957667617}"
+msgid "Don’t know or not sure"
+msgstr "不知道或不確定"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590171}"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590172}"
+msgid "No"
+msgstr "否"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957839718}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 40142366}"
+msgid ""
+"<strong>Tell us about your organization's contributions to open source</"
+"strong>"
+msgstr "<strong>告訴我們您的組織對開源的貢獻</strong>"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127863328}"
+msgid ""
+"The following questions all relate to the “contribution” to open source "
+"software by the organization you work for. By contribution we mean any of the "
+"following:<br>• Sending any changes you make to an open source project back "
+"to the original maintainers for inclusion into upcoming releases<br>• "
+"Submitting patches or pull requests to open source projects<br>• Opening "
+"issues, and taking part in online discussions relating to open source projects"
+msgstr ""
+"以下問題都與您工作的組織對開源軟體的“貢獻”有關。我們所說的貢獻是指以下任何一"
+"項：<br>• 將您對開源專案所做的任何更改發送回原始維護者，以便包含在即將發佈的版"
+"本中<br>• 向開源專案提交補丁或拉取請求<br>• 開放問題，並參與與開源專案相關的在"
+"線討論"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127926541}"
+msgid ""
+"Because you are a student, unemployed and not looking for work, or retired; "
+"please answer the remaining questions based on your own perspective rather "
+"than the perspective of the organization that the question says you work for."
+msgstr ""
+"因為你是學生，失業不找工作，或者退休;請根據你自己的觀點回答剩下的問題，而不是"
+"問題所說的你工作的組織的觀點。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127863398}"
+msgid ""
+"<strong>How would you describe your organization's contribution to OSS "
+"projects?</strong> (select one)"
+msgstr ""
+"<strong>您如何描述貴組織對開放源碼軟體項目的貢獻？</strong> （選擇一項）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957668529}"
+msgid "Don't know or not sure"
+msgstr "不知道或不確定"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957601398}"
+msgid "OSS contributions are not permitted"
+msgstr "不允許開放源碼軟體貢獻"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957601399}"
+msgid "OSS contributions are permitted if required by the open source license"
+msgstr "如果開源許可證要求，則允許OSS貢獻"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957601400}"
+msgid "OSS contributions are openly encouraged"
+msgstr "開放源碼軟體的捐款受到公開鼓勵"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957601401}"
+msgid "OSS contributions are up to each development team"
+msgstr "OSS 的貢獻取決於每個開發團隊"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957601402}"
+msgid "No clear policy about OSS contributions"
+msgstr "沒有關於開放源碼軟體貢獻的明確政策"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957839947}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 40142462}"
+msgid ""
+"<strong>Tell us about your organization's contributions to open source</"
+"strong>"
+msgstr "<strong>告訴我們您的組織對開源的貢獻</strong>"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864121}"
+msgid ""
+"<strong>What steps are followed for contributing OSS code in your "
+"organization?</strong> (select all that apply)"
+msgstr ""
+"<strong>在您的組織中貢獻 OSS 代碼遵循哪些步驟？</strong> （選擇所有適用項目）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957669460}"
+msgid "Don’t know or not sure"
+msgstr "不知道或不確定"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605032}"
+msgid "Functional software quality assurance testing"
+msgstr "功能性軟體質量保證測試"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605033}"
+msgid "Security and vulnerability testing"
+msgstr "安全和漏洞測試"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605034}"
+msgid "Code review by peers"
+msgstr "同行代碼審查"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605035}"
+msgid "Legal / compliance approval and sign-off"
+msgstr "法律/合規審批和簽署"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605036}"
+msgid "Recording of time spent contributing"
+msgstr "記錄貢獻所花費的時間"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605037}"
+msgid "Component documentation"
+msgstr "元件文件"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605038}"
+msgid "SBOM development"
+msgstr "中科發展"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840024}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864122}"
+msgid ""
+"<strong>In which of the following areas does your organization contribute to "
+"OSS?</strong> (select all that apply)"
+msgstr ""
+"<strong>貴組織在以下哪些方面為開放源碼軟體做出了貢獻？</strong> （選擇所有適用"
+"項目）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957669770}"
+msgid "Don’t know or not sure"
+msgstr "不知道或不確定"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605040}"
+msgid "Advanced analytics and data science"
+msgstr "高級分析和數據科學"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605041}"
+msgid "Artificial Intelligence / Machine Learning"
+msgstr "人工智慧/機器學習"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605042}"
+msgid "Augmented / Virtual reality"
+msgstr "增強/虛擬實境"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605043}"
+msgid "Blockchain"
+msgstr "以太坊區塊鏈網路"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605044}"
+msgid "CI/CD & DevOps"
+msgstr "CI/CD & DevOps"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605045}"
+msgid "Cloud / Container technologies"
+msgstr "雲/容器技術"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605046}"
+msgid "Cybersecurity"
+msgstr "網路安全"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605047}"
+msgid "Database and data management"
+msgstr "資料庫和數據管理"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605048}"
+msgid "DevOps / GitOps / DevSecOps"
+msgstr "DevOps / GitOps / DevSecOps"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605049}"
+msgid "Edge computing"
+msgstr "邊緣計算"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605050}"
+msgid "IoT & Embedded"
+msgstr "物聯網和嵌入式"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605051}"
+msgid "Kubernetes"
+msgstr "Kubernetes"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605052}"
+msgid "Linux"
+msgstr "Linux"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605053}"
+msgid "Manufacturing, 3D printing, and CAD / CAM"
+msgstr "製造、3D 列印和 CAD/CAM"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605054}"
+msgid "Networking technologies (5G, SDN, NFV, etc.)"
+msgstr "網路技術（5G、SDN、NFV 等）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605055}"
+msgid "Open source hardware"
+msgstr "開源硬體"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605056}"
+msgid "Storage technologies"
+msgstr "存儲技術"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605057}"
+msgid "Web & application development"
+msgstr "網路和應用程式開發"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957669767}"
+msgid "Please enter a comment."
+msgstr "請留下您的評價。"
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 957669771}"
+msgid "Other (please specify)"
+msgstr "其他（请列明）"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840026}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864123}"
+msgid ""
+"<strong>Has your organization made any of the following OSS contributions?</"
+"strong> (select all that apply)"
+msgstr ""
+"<strong>貴組織是否做出了以下任何 OSS 貢獻？</strong> （選擇所有適用項目）"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957671048}"
+msgid "None of the above"
+msgstr "以上都不是"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605060}"
+msgid "Contributed code to an open source project"
+msgstr "為開源項目貢獻代碼"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605061}"
+msgid "Opened an issue on an open source project"
+msgstr "打開了一個關於開源項目的問題"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605062}"
+msgid ""
+"Answered queries relating to an open source project on an online community (e."
+"g., Stack Overflow, Reddit)"
+msgstr "回答了與在線社區（例如，Stack Overflow，Reddit）上的開源專案相關的查詢"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605063}"
+msgid "Helped with open source documentation"
+msgstr "説明開源文檔"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605064}"
+msgid "Contributed designs, graphics, or other non-code assets"
+msgstr "貢獻的設計、圖形或其他非代碼資產"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605065}"
+msgid "Don’t know or not sure"
+msgstr "不知道或不確定"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840028}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864124}"
+msgid ""
+"<strong>How often do OSS contributions in your organization deliver the "
+"following benefits:</strong> (select one response per row)"
+msgstr ""
+"<strong>OSS 貢獻在組織中多久提供一次以下好處：</strong> （每行選擇一個回應）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605067}"
+msgid "Improved software quality"
+msgstr "提高軟體品質"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605068}"
+msgid "Improved security"
+msgstr "提高安全性"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605069}"
+msgid "Makes the organization a better place to work"
+msgstr "使組織成為更好的工作場所"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605070}"
+msgid "Enables the IT industry to be more innovative"
+msgstr "使IT行業更具創新性"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605071}"
+msgid "Fulfill a moral obligation to other OSS consumers"
+msgstr "履行對其他OSS消費者的道德義務"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957607243}"
+msgid "Never"
+msgstr "從不"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957607244}"
+msgid "Rarely"
+msgstr "นานๆ ครั้ง"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957607245}"
+msgid "Sometimes"
+msgstr "有時候"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957607246}"
+msgid "Often"
+msgstr "บ่อยครั้ง"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957607247}"
+msgid "Always"
+msgstr "總是"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957607248}"
+msgid "Don't know or not sure"
+msgstr "不知道或不確定"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840030}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864125}"
+msgid ""
+"<strong>Over the last year, has the overall benefits your organization "
+"derives from OSS contributions changed?</strong> (select one)"
+msgstr ""
+"<strong>在過去一年中，貴組織從開放源碼軟體貢獻中獲得的總體利益是否發生了變化？"
+"</strong> （選擇一項）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957671743}"
+msgid "Don’t know or not sure"
+msgstr "不知道或不確定"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605072}"
+msgid "It has decreased a lot"
+msgstr "它已經減少了很多"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605073}"
+msgid "It has decreased a little"
+msgstr "它有所下降"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605074}"
+msgid "It has stayed the same"
+msgstr "它一直保持不變"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605075}"
+msgid "It has increased a little"
+msgstr "它增加了一點"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605076}"
+msgid "It has increased a lot"
+msgstr "它增加了很多"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840032}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864126}"
+msgid ""
+"<strong>Does your organization agree or disagree that its OSS contributions "
+"are limited by:</strong> (select one response per row)"
+msgstr ""
+"<strong>貴組織是否同意其OSS貢獻受以下因素限制：</strong> （每行選擇一個回應）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605078}"
+msgid "A clear lack of return on investment"
+msgstr "明顯缺乏投資回報"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605079}"
+msgid "A fear of leaking intellectual property (IP)"
+msgstr "擔心洩露智慧財產權 （IP）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605080}"
+msgid "Legal or licensing concerns"
+msgstr "法律或許可問題"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605081}"
+msgid "Technology constraints and challenges"
+msgstr "技術限制和挑戰"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605082}"
+msgid "A lack of policy or training materials"
+msgstr "缺乏政策或培訓材料"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957609427}"
+msgid "Disagree"
+msgstr "不同意"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957609428}"
+msgid "Neutral"
+msgstr "中立"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957609429}"
+msgid "Agree"
+msgstr "同意"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957609430}"
+msgid "Don't know or not sure"
+msgstr "不知道或不確定"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840033}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864127}"
+msgid ""
+"<strong>How much would OSS contributions change if your organization invested "
+"in the following actions:</strong> (select one response per row)"
+msgstr ""
+"<strong>如果您的組織投資於以下行動，OSS 的貢獻將改變多少：</strong> （每行選擇"
+"一個回應）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605083}"
+msgid "Providing clearer policies to employees"
+msgstr "為員工提供更清晰的政策"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605084}"
+msgid "Providing organization-wide education on the OSS value proposition"
+msgstr "在全組織範圍內提供有關 OSS 價值主張的教育"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605085}"
+msgid "Funding open source projects"
+msgstr "資助開源專案"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605086}"
+msgid "Addressing licensing concerns"
+msgstr "解決許可問題"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605087}"
+msgid "Addressing security concerns"
+msgstr "解決安全問題"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605088}"
+msgid "Getting involved in industry or government policy making"
+msgstr "參與行業或政府政策制定"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605089}"
+msgid "Open sourcing its own products or internal tools"
+msgstr "開源自己的產品或內部工具"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605090}"
+msgid "Allocating employee time for open source contributions"
+msgstr "為開源貢獻分配員工時間"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957611089}"
+msgid "Decrease a lot"
+msgstr "減少很多"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957611090}"
+msgid "Decrease a little"
+msgstr "減少一點"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957611091}"
+msgid "Stay the same"
+msgstr "保持不變"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957611092}"
+msgid "Increase a little"
+msgstr "增加一點"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957611093}"
+msgid "Increase a lot"
+msgstr "增加很多"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957611094}"
+msgid "Don't know or not sure"
+msgstr "不知道或不確定"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840072}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864128}"
+msgid ""
+"<strong>Do you spend time at work contributing to projects managed by other "
+"teams within your organization (i.e., inner source projects)?</strong> "
+"(select one)"
+msgstr ""
+"您是否花時間在<strong>工作中為組織內其他團隊管理的專案（即內部源專案）做出貢"
+"獻？</strong>（選擇一項）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957672643}"
+msgid "Don’t know or not sure"
+msgstr "不知道或不確定"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605091}"
+msgid "No"
+msgstr "否"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605092}"
+msgid "1-4 hours per week"
+msgstr "每周1-4小時"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605093}"
+msgid "5-10 hours per week"
+msgstr "每周5-10小時"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605094}"
+msgid "11-20 hours per week"
+msgstr "每周11-20小時"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605095}"
+msgid "21-30 hours per week"
+msgstr "每周21-30小時"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605096}"
+msgid "31-40 hours per week"
+msgstr "每周31-40小時"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605097}"
+msgid "More than 40 hours per week"
+msgstr "每周超過40小時"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840074}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864129}"
+msgid ""
+"<strong>Do you spend time at work contributing to externally distributed open "
+"source projects that your employer founded, adopted, or sponsors?</"
+"strong> (select one)"
+msgstr ""
+"<strong>您是否花時間在工作中為僱主創立、採用或贊助的外部分散式開源專案做出貢"
+"獻？</strong>（選擇一項）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957673404}"
+msgid "Don’t know or not sure"
+msgstr "不知道或不確定"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605099}"
+msgid "No"
+msgstr "否"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605100}"
+msgid "1-4 hours per week"
+msgstr "每周1-4小時"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605101}"
+msgid "5-10 hours per week"
+msgstr "每周5-10小時"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605102}"
+msgid "11-20 hours per week"
+msgstr "每周11-20小時"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605103}"
+msgid "21-30 hours per week"
+msgstr "每周21-30小時"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605104}"
+msgid "31-40 hours per week"
+msgstr "每周31-40小時"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605105}"
+msgid "More than 40 hours per week"
+msgstr "每周超過40小時"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840075}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864130}"
+msgid ""
+"<strong>Do you spend time at work contributing to third-party open source "
+"projects (i.e., those where your employer has no commercial relationship)?</"
+"strong> (select one)"
+msgstr ""
+"您是否花時間在<strong>工作中為第三方開源專案（即您的僱主沒有商業關係的專案）做"
+"出貢獻？</strong>（選擇一項）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957673621}"
+msgid "Don’t know or not sure"
+msgstr "不知道或不確定"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605107}"
+msgid "No"
+msgstr "否"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605108}"
+msgid "1-4 hours per week"
+msgstr "每周1-4小時"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605109}"
+msgid "5-10 hours per week"
+msgstr "每周5-10小時"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605110}"
+msgid "11-20 hours per week"
+msgstr "每周11-20小時"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605111}"
+msgid "21-30 hours per week"
+msgstr "每周21-30小時"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605112}"
+msgid "31-40 hours per week"
+msgstr "每周31-40小時"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605113}"
+msgid "More than 40 hours per week"
+msgstr "每周超過40小時"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840076}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864133}"
+msgid ""
+"<strong>Do you spend any of your personal time contributing to open source "
+"projects?</strong> (select one)"
+msgstr ""
+"<strong>您是否將任何個人時間花在為開源專案做出貢獻上？</strong>（選擇一項）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957673723}"
+msgid "Don’t know or not sure"
+msgstr "不知道或不確定"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605135}"
+msgid "No"
+msgstr "否"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605136}"
+msgid "1-4 hours per week"
+msgstr "每周1-4小時"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605137}"
+msgid "5-10 hours per week"
+msgstr "每周5-10小時"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605138}"
+msgid "11-20 hours per week"
+msgstr "每周11-20小時"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605139}"
+msgid "21-30 hours per week"
+msgstr "每周21-30小時"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605140}"
+msgid "31-40 hours per week"
+msgstr "每周31-40小時"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605141}"
+msgid "More than 40 hours per week"
+msgstr "每周超過40小時"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840077}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864134}"
+msgid ""
+"<strong>How influential are the following factors when considering whether or "
+"not to contribute your personal time to open source projects?</strong> "
+"(select one response per row)"
+msgstr ""
+"<strong>在考慮是否為開源項目貢獻個人時間時，以下因素的影響有多大？</strong> "
+"（每行選擇一個回應）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605144}"
+msgid "Learning and personal development"
+msgstr "學習和個人發展"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605145}"
+msgid "Improving my career opportunities"
+msgstr "改善我的職業機會"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605146}"
+msgid "Responsibility towards open source"
+msgstr "對開源的責任"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605147}"
+msgid "I enjoy working with my peers and the community"
+msgstr "我喜歡與同齡人和社區合作"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605148}"
+msgid "Fulfilling a technology need not met elsewhere"
+msgstr "滿足其他地方無法滿足的技術需求"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957675696}"
+msgid "Not at all influential"
+msgstr "完全沒有影響力"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957675697}"
+msgid "Not very influential"
+msgstr "不是很有影響力"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957675698}"
+msgid "Somewhat influential"
+msgstr "有點影響力"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957675699}"
+msgid "Very influential"
+msgstr "非常有影響力"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957675700}"
+msgid "Extremely influential"
+msgstr "極具影響力"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957675701}"
+msgid "Don't know or not sure"
+msgstr "不知道或不確定"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840078}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864135}"
+msgid ""
+"<strong>How do you feel about the third-party OSS projects you contribute to?"
+"</strong> (select one)"
+msgstr "您<strong>如何看待您參與的第三方 OSS 專案？</strong>（選擇一項）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957676547}"
+msgid "Don’t know or not sure"
+msgstr "不知道或不確定"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605149}"
+msgid "I don't contribute to third-party OSS projects"
+msgstr "我不參與第三方 OSS 專案"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605150}"
+msgid "I definitely do not feel part of the project"
+msgstr "我絕對不覺得自己是專案的一部分"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605151}"
+msgid "I do not feel part of the project"
+msgstr "我不覺得自己是專案的一部分"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605152}"
+msgid "I neither feel nor not feel part of the project"
+msgstr "我既不覺得也不覺得自己是專案的一部分"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605153}"
+msgid "I feel part of the project"
+msgstr "我覺得自己是專案的一部分"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605154}"
+msgid "I definitely feel part of the project"
+msgstr "我絕對覺得自己是專案的一部分"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840080}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 40143133}"
+msgid "<strong>The value of open source to your organization</strong>"
+msgstr "<strong>開源對組織的價值</strong>"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867948}"
+msgid ""
+"<strong>To what extent do you agree or disagree that OSS is valuable to the "
+"future of your organization?</strong> (select one)"
+msgstr ""
+"<strong>您在多大程度上同意或不同意開放源碼軟體對貴組織的未來有價值？</strong> "
+"（選擇一項）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957677081}"
+msgid "Don’t know or not sure"
+msgstr "不知道或不確定"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628185}"
+msgid "Strongly disagree"
+msgstr "非常不同意"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628186}"
+msgid "Somewhat disagree"
+msgstr "有點不同意"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628187}"
+msgid "Neither agree nor disagree"
+msgstr "既不同意也不反對"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628188}"
+msgid "Somewhat agree"
+msgstr "有點同意"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628189}"
+msgid "Strongly agree"
+msgstr "非常同意"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840200}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867949}"
+msgid ""
+"<strong>To what extent do you agree or disagree that open source is valuable "
+"to the future of the industry your organization is a part of?</strong> "
+"(select one)"
+msgstr ""
+"<strong>您在多大程度上同意或不同意開源對您的組織所屬行業的未來有價值？</"
+"strong> （選擇一項）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957677442}"
+msgid "Don’t know or not sure"
+msgstr "不知道或不確定"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628191}"
+msgid "Strongly disagree"
+msgstr "非常不同意"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628192}"
+msgid "Somewhat disagree"
+msgstr "有點不同意"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628193}"
+msgid "Neither agree nor disagree"
+msgstr "既不同意也不反對"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628194}"
+msgid "Somewhat agree"
+msgstr "有點同意"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628195}"
+msgid "Strongly agree"
+msgstr "非常同意"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840201}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867950}"
+msgid ""
+"<strong>Which open source technologies do you feel are the most valuable to "
+"the future of your industry?</strong> (select between one and three responses)"
+msgstr ""
+"<strong>您認為哪些開源技術對您所在行業的未來最有價值？</strong> （在一到三個回"
+"應中選擇）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957678512}"
+msgid "Don’t know or not sure"
+msgstr "不知道或不確定"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628197}"
+msgid "Advanced analytics and data science"
+msgstr "高級分析和數據科學"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628198}"
+msgid "Artificial Intelligence / Machine Learning"
+msgstr "人工智慧/機器學習"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628199}"
+msgid "Augmented / Virtual reality"
+msgstr "增強/虛擬實境"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628200}"
+msgid "Blockchain"
+msgstr "以太坊區塊鏈網路"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628201}"
+msgid "CI/CD & DevOps"
+msgstr "CI/CD & DevOps"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628202}"
+msgid "Cloud / Container technologies"
+msgstr "雲/容器技術"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628203}"
+msgid "Cybersecurity"
+msgstr "網路安全"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628204}"
+msgid "Database and data management"
+msgstr "資料庫和數據管理"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628205}"
+msgid "DevOps / GitOps / DevSecOps"
+msgstr "DevOps / GitOps / DevSecOps"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628206}"
+msgid "Edge computing"
+msgstr "邊緣計算"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628207}"
+msgid "IoT & Embedded"
+msgstr "物聯網和嵌入式"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628208}"
+msgid "Kubernetes"
+msgstr "Kubernetes"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628209}"
+msgid "Linux"
+msgstr "Linux"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628210}"
+msgid "Manufacturing, 3D printing, and CAD / CAM"
+msgstr "製造、3D 列印和 CAD/CAM"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628211}"
+msgid "Networking technologies (5G, SDN, NFV, etc.)"
+msgstr "網路技術（5G、SDN、NFV 等）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628212}"
+msgid "Open source hardware"
+msgstr "開源硬體"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628213}"
+msgid "Storage technologies"
+msgstr "存儲技術"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628214}"
+msgid "Web & application development"
+msgstr "網路和應用程式開發"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957678509}"
+msgid "Please enter a comment."
+msgstr "請留下您的評價。"
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 957678513}"
+msgid "Other (please specify)"
+msgstr "其他（请列明）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957686968}"
+msgid "This question requires between one and three responses."
+msgstr "這個問題需要一到三個答案。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867951}"
+msgid ""
+"<strong>Which aspects of your industry do you think would most benefit from "
+"open source?</strong> (select all that apply)"
+msgstr ""
+"<strong>您認為您所在行業的哪些方面最能從開源中受益？</strong> （選擇所有適用項"
+"目）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957678892}"
+msgid "Don’t know or not sure"
+msgstr "不知道或不確定"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628217}"
+msgid "Industry standards and interoperability"
+msgstr "行業標準和互操作性"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628218}"
+msgid "Regulation and legal compliance"
+msgstr "法規和法律合規"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628219}"
+msgid "Transparency"
+msgstr "透明度"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628220}"
+msgid "Risk management"
+msgstr "風險管理"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628221}"
+msgid "Reduced operating costs"
+msgstr "降低運營成本"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628222}"
+msgid "Reduced product development costs"
+msgstr "降低產品開發成本"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628223}"
+msgid "Productivity"
+msgstr "生產力"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628224}"
+msgid "Data sharing"
+msgstr "數據共用"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628225}"
+msgid "Collaboration"
+msgstr "協作"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628226}"
+msgid "Innovation"
+msgstr "革新"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957678889}"
+msgid "Please enter a comment."
+msgstr "請留下您的評價。"
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 957678893}"
+msgid "Other (please specify)"
+msgstr "其他（请列明）"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840202}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867952}"
+msgid ""
+"<strong>Which industries do you think would most benefit from investing in "
+"open source?</strong> (select between one and three responses)"
+msgstr ""
+"<strong>您認為哪些行業將從投資開源中受益最大？</strong> （在一到三個回應中選"
+"擇）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957680133}"
+msgid "Don’t know or not sure"
+msgstr "不知道或不確定"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628229}"
+msgid "Agriculture"
+msgstr "農業"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628230}"
+msgid "Automotive"
+msgstr "汽車"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628231}"
+msgid "Business services (accounting, management consulting, legal, etc.)"
+msgstr "商務服務（會計、管理諮詢、法律等）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628232}"
+msgid "Consumer packaged goods"
+msgstr "包裝消費品"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628233}"
+msgid "Construction / engineering"
+msgstr "建築/工程"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628234}"
+msgid "Education (K-12, primary, secondary)"
+msgstr "教育（K-12，小學，中學）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628235}"
+msgid "Education (college, university)"
+msgstr "教育（學院、大學）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628236}"
+msgid "Financial services (banking, insurance, securities, etc.)"
+msgstr "金融服務（銀行、保險、證券等）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628237}"
+msgid "Government (federal, national)"
+msgstr "政府（聯邦、國家）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628238}"
+msgid "Government (state, local)"
+msgstr "政府（州、地方）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628239}"
+msgid "Health care"
+msgstr "保健"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628240}"
+msgid "Hospitality & travel"
+msgstr "酒店和旅遊"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628241}"
+msgid "Information technology (IT vendor, service provider, or manufacturer)"
+msgstr "資訊技術（IT 供應商、服務提供者或製造商）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628242}"
+msgid "Life sciences (biotech, pharmaceuticals, etc.)"
+msgstr "生命科學（生物技術、製藥等）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628243}"
+msgid "Manufacturing (discrete or process)"
+msgstr "製造（離散或過程）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628244}"
+msgid ""
+"Media (broadcast communications, entertainment, publishing, website, social "
+"networking, etc.)"
+msgstr "媒體（廣播通信、娛樂、出版、網站、社交網路等）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628245}"
+msgid "Mining, oil, and gas"
+msgstr "採礦、石油和天然氣"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628246}"
+msgid "Real estate, rental, and leasing"
+msgstr "房地產、租賃和租賃"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628247}"
+msgid "Retail, wholesale, & eCommerce"
+msgstr "零售、批發和電子商務"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628248}"
+msgid "Telecommunications / Internet service provider (ISP) / web hosting"
+msgstr "電信/互聯網服務提供者（ISP）/虛擬主機"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628249}"
+msgid "Transportation & logistics (other than automotive)"
+msgstr "運輸和物流（汽車除外）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628250}"
+msgid "Utilities / energy"
+msgstr "公用事業/能源"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957680130}"
+msgid "Please enter a comment."
+msgstr "請留下您的評價。"
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 957680134}"
+msgid "Other (please specify)"
+msgstr "其他（请列明）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957681555}"
+msgid "This question requires between one and three responses."
+msgstr "這個問題需要一到三個答案。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867953}"
+msgid ""
+"<strong>In which areas do you think there should be further investment in "
+"open source across your geographic region?</strong> (select between one and "
+"three responses)"
+msgstr ""
+"<strong>您認為您所在的地理區域應該在哪些領域進一步投資開源？</strong> （在一到"
+"三個回應中選擇）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957684960}"
+msgid "Don't know or not sure"
+msgstr "不知道或不確定"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628253}"
+msgid "Government adoption of open source"
+msgstr "政府採用開源"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628254}"
+msgid "Better funding of the commercial open source startup ecosystem"
+msgstr "為商業開源創業生態系統提供更好的資金"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628255}"
+msgid "Better academic education"
+msgstr "更好的學術教育"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628256}"
+msgid "Individual incentives (e.g., grants) to maintainers"
+msgstr "對維護者的個人激勵（例如，贈款）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628257}"
+msgid "Mentorship / internship programs"
+msgstr "指導/實習計劃"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628258}"
+msgid "Foster open source global technology standards"
+msgstr "培育開源全球技術標準"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628259}"
+msgid "Additional laws like the Digital Services Act and Digital Markets Act"
+msgstr "《數位服務法》和《數字市場法》等其他法律"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628260}"
+msgid "Open source as “digital commons” public good"
+msgstr "開源作為「數字共用」公共產品"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628261}"
+msgid "Open source alternatives to technology monopolies"
+msgstr "技術壟斷的開源替代品"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628262}"
+msgid "A friendlier legal landscape for open source"
+msgstr "為開源提供更友好的法律環境"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957684957}"
+msgid "Please enter a comment."
+msgstr "請留下您的評價。"
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 957684961}"
+msgid "Other (please specify)"
+msgstr "其他（请列明）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957683292}"
+msgid "This question requires one to three responses."
+msgstr "這個問題需要一到三個答案。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867954}"
+msgid ""
+"<strong>Which of the following statements best characterizes your "
+"organization's use of OSS?</strong> (select one)"
+msgstr ""
+"<strong>以下哪項陳述最能說明貴組織使用 OSS 的情況？</strong> （選擇一項）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957685232}"
+msgid "Don’t know or not sure"
+msgstr "不知道或不確定"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628265}"
+msgid "Costs greatly exceed the benefits"
+msgstr "成本遠遠超過收益"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628266}"
+msgid "Costs exceed benefits"
+msgstr "成本大於收益"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628267}"
+msgid "Costs and benefits are about the same"
+msgstr "成本和收益大致相同"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628268}"
+msgid "Benefits exceed the costs"
+msgstr "收益大於成本"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628269}"
+msgid "Benefits greatly exceed the costs"
+msgstr "收益遠遠超過成本"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840204}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867955}"
+msgid ""
+"<strong>In general, how should OSS project sustainability be improved?</"
+"strong> (select all that apply)"
+msgstr ""
+"<strong>總的來說，應該如何提高OSS項目的可持續性？</strong> （選擇所有適用項"
+"目）"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957685598}"
+msgid "Don't know or not sure"
+msgstr "不知道或不確定"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628271}"
+msgid ""
+"Organizations using OSS should accept having a responsibility to give back "
+"through contributions to OSS standards and projects"
+msgstr ""
+"使用開放源碼軟體的組織應接受有責任通過對開放源碼軟體標準和項目的貢獻來回饋社"
+"會。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628272}"
+msgid ""
+"Organizations should allow time during working hours for employees to make "
+"meaningful contributions to open source projects and dependencies of interest "
+"to the organization"
+msgstr ""
+"組織應該在工作時間內留出時間讓員工為開源項目和組織感興趣的依賴項做出有意義的貢"
+"獻"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628273}"
+msgid ""
+"Organizations using OSS should provide an economic incentive to employees for "
+"meaningful contribution to open source projects and dependencies of interest "
+"to the organization"
+msgstr ""
+"使用OSS的組織應為員工提供經濟激勵，以對開源專案和組織感興趣的依賴關係做出有意"
+"義的貢獻"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628274}"
+msgid ""
+"Employers should proactively sponsor OSS standards and projects for "
+"interoperability across tools to make it less painful for developers to build "
+"pipelines and workflows"
+msgstr ""
+"僱主應積極贊助OSS標準和專案，以實現跨工具的互操作性，以減少開發人員構建管道和"
+"工作流的痛苦"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628275}"
+msgid ""
+"Service providers and vendors should sponsor free or deeply discounted tools "
+"and services for use on open source projects"
+msgstr "服務提供者和供應商應贊助免費或大幅折扣的工具和服務，用於開源專案"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957685595}"
+msgid "Please enter a comment."
+msgstr "請留下您的評價。"
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 957685599}"
+msgid "Other (please specify)"
+msgstr "其他（请列明）"
+
+msgctxt "{\"cxt\": \"question_required\", \"id\": 957840209}"
+msgid "This question requires an answer."
+msgstr "請回答這個問題。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 40143592}"
+msgid "<strong>Survey Reward</strong>"
+msgstr "<strong>調查獎勵</strong>"
+
+#, fuzzy, python-format
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 127869271}"
+msgid ""
+"Thank you for completing this survey. <strong>WOOS2023</strong> is a "
+"25% discount on any one Linux Foundation e-learning training course or "
+"certification exam, as long as you register for a course before August 30, "
+"2023. You can find the complete catalog of training and certifications at "
+"https://training.linuxfoundation.org/full-catalog/. This discount code is not "
+"valid for any other combination of FINOPS or instructor-led training courses "
+"or certifications."
+msgstr ""
+"感謝您完成此調查。WOOS2023 是 25% d個 viscount 的任何一個 Linux 基金會電子學習"
+"培訓課程或認證考試，只要您在 <strong>2023</strong> 年 8 月 30 日之前註冊課程即"
+"可。您可以在 https://training.linuxfoundation.org/full-catalog/ 找到完整的培訓"
+"和認證目錄。此折扣代碼不適用於 FINOPS 或講師指導的培訓課程或認證的任何其他組"
+"合。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"survey_next\", \"id\": 511771208}"
+msgid "Next"
+msgstr ""
+"填寫報告的第一步，是確認該問題是否已經被回報過了。這樣做的好處，除了可以節省開"
+"發者的時間，也能讓您了解目前關於該問題的處理進度；有可能已經在下一個發行版本中"
+"修正了這個問題，也有可能需要更詳細的資訊（在這種情況下，如果可以，非常歡迎您提"
+"供資訊！）。要確認是否重複回報，請使用頁面頂端的搜尋框來搜尋錯誤資料庫。"
+
+msgctxt "{\"cxt\": \"survey_prev\", \"id\": 511771208}"
+msgid "Prev"
+msgstr "上一頁"
+
+msgctxt "{\"cxt\": \"survey_done\", \"id\": 511771208}"
+msgid "Done"
+msgstr "完成"
+
+msgctxt "{\"cxt\": \"survey_exit\", \"id\": 511771208}"
+msgid "Exit"
+msgstr "退出"
+
+msgctxt "{\"cxt\": \"survey_ok\", \"id\": 511771208}"
+msgid "OK"
+msgstr "確定"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"adv_branching_invalidate_question\", \"id\": 127860922}"
+msgid "You can't select I don't know or not sure\" and another option."
+msgstr "您不能選擇“我不知道或不確定”和另一個選項。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"adv_branching_invalidate_question\", \"id\": 127864123}"
+msgid "You can't select I don't know or not sure\" and another option."
+msgstr "您不能選擇“我不知道或不確定”和另一個選項。"
+
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450974742}"
+msgid "Thank you for completing our survey!"
+msgstr "感謝您完成問卷調查！"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"collector_thankyou\", \"id\": 450600999}"
+msgid ""
+"Thank you for completing the World of Open Source: 2023 Global Spotlight "
+"survey!"
+msgstr "感謝您完成開源世界：2023 年全球聚焦調查！"
+
+#, fuzzy, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450600999}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The complete "
+"catalog of training and certifications is at https://training.linuxfoundation."
+"org/full-catalog/."
+msgstr ""
+"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
+"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
+"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
+"training.linuxfoundation.org/full-catalog/。"
+
+#, fuzzy, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450954964}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The complete "
+"catalog of training and certifications is at https://training.linuxfoundation."
+"org/full-catalog/."
+msgstr ""
+"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
+"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
+"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
+"training.linuxfoundation.org/full-catalog/。"
+
+#, fuzzy, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450994726}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The complete "
+"catalog of training and certifications is at https://training.linuxfoundation."
+"org/full-catalog/."
+msgstr ""
+"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
+"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
+"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
+"training.linuxfoundation.org/full-catalog/。"
+
+#, fuzzy, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 451008534}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The complete "
+"catalog of training and certifications is at https://training.linuxfoundation."
+"org/full-catalog/."
+msgstr ""
+"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
+"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
+"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
+"training.linuxfoundation.org/full-catalog/。"
+
+#, fuzzy, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450994453}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The complete "
+"catalog of training and certifications is at https://training.linuxfoundation."
+"org/full-catalog/."
+msgstr ""
+"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
+"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
+"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
+"training.linuxfoundation.org/full-catalog/。"
+
+#, fuzzy, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450994418}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The complete "
+"catalog of training and certifications is at https://training.linuxfoundation."
+"org/full-catalog/."
+msgstr ""
+"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
+"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
+"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
+"training.linuxfoundation.org/full-catalog/。"
+
+#, fuzzy, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450961203}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The complete "
+"catalog of training and certifications is at https://training.linuxfoundation."
+"org/full-catalog/."
+msgstr ""
+"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
+"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
+"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
+"training.linuxfoundation.org/full-catalog/。"
+
+#, fuzzy, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450961189}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The complete "
+"catalog of training and certifications is at https://training.linuxfoundation."
+"org/full-catalog/."
+msgstr ""
+"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
+"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
+"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
+"training.linuxfoundation.org/full-catalog/。"
+
+#, fuzzy, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450961157}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The complete "
+"catalog of training and certifications is at https://training.linuxfoundation."
+"org/full-catalog/."
+msgstr ""
+"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
+"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
+"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
+"training.linuxfoundation.org/full-catalog/。"
+
+#, fuzzy
+msgctxt "{\"cxt\": \"collector_thankyou\", \"id\": 450763440}"
+msgid ""
+"Thank you for completing the World of Open Source: 2023 Global Spotlight "
+"survey!"
+msgstr "感謝您完成開源世界：2023 年全球聚焦調查！"
+
+#, fuzzy, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450763440}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The complete "
+"catalog of training and certifications is at https://training.linuxfoundation."
+"org/full-catalog/."
+msgstr ""
+"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
+"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
+"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
+"training.linuxfoundation.org/full-catalog/。"
+
+#, fuzzy, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450954202}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The complete "
+"catalog of training and certifications is at https://training.linuxfoundation."
+"org/full-catalog/."
+msgstr ""
+"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
+"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
+"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
+"training.linuxfoundation.org/full-catalog/。"
+
+#, fuzzy, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450944433}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The complete "
+"catalog of training and certifications is at https://training.linuxfoundation."
+"org/full-catalog/."
+msgstr ""
+"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
+"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
+"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
+"training.linuxfoundation.org/full-catalog/。"
+
+#, fuzzy, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450861377}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The complete "
+"catalog of training and certifications is at https://training.linuxfoundation."
+"org/full-catalog/."
+msgstr ""
+"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
+"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
+"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
+"training.linuxfoundation.org/full-catalog/。"
+
+#, fuzzy, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450861355}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The complete "
+"catalog of training and certifications is at https://training.linuxfoundation."
+"org/full-catalog/."
+msgstr ""
+"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
+"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
+"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
+"training.linuxfoundation.org/full-catalog/。"
+
+#, fuzzy, python-format
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450847257}"
+msgid ""
+"Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
+"Foundation e-learning training course or certification exam, except any "
+"combination of FINOPS or instructor-led training courses or certifications, "
+"and as long as you register for a course before August 30, 2023. The complete "
+"catalog of training and certifications is at https://training.linuxfoundation."
+"org/full-catalog/."
+msgstr ""
+"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
+"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
+"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
+"training.linuxfoundation.org/full-catalog/。"
