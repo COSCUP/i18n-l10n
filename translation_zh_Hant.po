@@ -2,13 +2,14 @@
 #
 # Weblate Admin <toomore0929@gmail.com>, 2023.
 # Pofeng Lee <pofeng@gmail.com>, 2023.
+# "Chung-Yu, Hsu" <chungyu.hsu@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-05-08 17:18+0000\n"
 "PO-Revision-Date: 2023-05-16 03:51+0000\n"
-"Last-Translator: Pofeng Lee <pofeng@gmail.com>\n"
+"Last-Translator: \"Chung-Yu, Hsu\" <chungyu.hsu@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://weblate.toomore.net/projects/"
 "linux-foundation-survey-zh-hant/survey-2023/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -118,7 +119,7 @@ msgstr "我只是幾行程式碼"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569429}"
 msgid "I am a real person"
-msgstr "我是一個活生生的人"
+msgstr "我是真人"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569430}"
 msgid "I am a bot"
@@ -180,7 +181,7 @@ msgstr "不知道或不確定"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569438}"
 msgid "Student, full time or part time"
-msgstr "學生，全日制或兼職"
+msgstr "學生，專職或在職"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569439}"
 msgid "Recent graduate, but not yet employed"
@@ -216,7 +217,7 @@ msgstr "請回答這個問題。"
 
 msgctxt "{\"cxt\": \"page_heading\", \"id\": 40141644}"
 msgid "<strong>Tell us about yourself</strong>"
-msgstr "<strong>介紹一下您自己</strong>"
+msgstr "<strong>自我介紹</strong>"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127859996}"
 msgid ""
