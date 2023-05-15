@@ -1,13 +1,14 @@
 # Chinese (Traditional) translations for survey.
 #
 # Weblate Admin <toomore0929@gmail.com>, 2023.
+# Pofeng Lee <pofeng@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-05-08 17:18+0000\n"
 "PO-Revision-Date: 2023-05-16 03:51+0000\n"
-"Last-Translator: Weblate Admin <toomore0929@gmail.com>\n"
+"Last-Translator: Pofeng Lee <pofeng@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://weblate.toomore.net/projects/"
 "linux-foundation-survey-zh-hant/survey-2023/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -1194,32 +1195,26 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590164}"
 msgid "Using software bill of materials (SBOM) to improve component trust"
 msgstr "使用軟體物料清單 （SBOM） 提高元件信任度"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957598178}"
 msgid "Decrease a lot"
 msgstr "減少很多"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957598179}"
 msgid "Decrease a little"
 msgstr "減少一點"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957598180}"
 msgid "Stay the same"
 msgstr "保持不變"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957598181}"
 msgid "Increase a little"
 msgstr "增加一點"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957598182}"
 msgid "Increase a lot"
 msgstr "增加很多"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957598183}"
 msgid "Don't know or not sure"
 msgstr "不知道或不確定"
@@ -1228,41 +1223,33 @@ msgctxt "{\"cxt\": \"question_required\", \"id\": 957839689}"
 msgid "This question requires an answer."
 msgstr "請回答這個問題。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861755}"
 msgid ""
 "<strong>Over the last year, how has the business value your organization "
 "derives from OSS use changed?</strong> (select one)"
-msgstr ""
-"<strong>在過去的一年中，您的組織從OSS使用中獲得的業務價值發生了哪些變化？</"
+msgstr "<strong>在過去的一年中，您的組織從OSS使用中獲得的業務價值發生了哪些變化？</"
 "strong> （選擇一項）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957667039}"
 msgid "Don’t know or not sure"
 msgstr "不知道或不確定"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590165}"
 msgid "It has decreased a lot"
-msgstr "它已經減少了很多"
+msgstr "減少很多"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590166}"
 msgid "It has decreased a little"
-msgstr "它有所下降"
+msgstr "減少一點"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590167}"
 msgid "It has stayed the same"
 msgstr "它一直保持不變"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590168}"
 msgid "It has increased a little"
 msgstr "它增加了一點"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590169}"
 msgid "It has increased a lot"
 msgstr "它增加了很多"
@@ -1271,14 +1258,12 @@ msgctxt "{\"cxt\": \"question_required\", \"id\": 957839717}"
 msgid "This question requires an answer."
 msgstr "請回答這個問題。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861756}"
 msgid ""
 "<strong>Do you believe that OSS is more secure than closed source software?</"
 "strong> (select one)"
 msgstr "<strong>您認為 OSS 比閉源軟體更安全嗎？</strong> （選擇一項）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957667617}"
 msgid "Don’t know or not sure"
 msgstr "不知道或不確定"
@@ -1295,7 +1280,6 @@ msgctxt "{\"cxt\": \"question_required\", \"id\": 957839718}"
 msgid "This question requires an answer."
 msgstr "請回答這個問題。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"page_heading\", \"id\": 40142366}"
 msgid ""
 "<strong>Tell us about your organization's contributions to open source</"
@@ -1317,50 +1301,40 @@ msgstr ""
 "本中<br>• 向開源專案提交補丁或拉取請求<br>• 開放問題，並參與與開源專案相關的在"
 "線討論"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127926541}"
 msgid ""
 "Because you are a student, unemployed and not looking for work, or retired; "
 "please answer the remaining questions based on your own perspective rather "
 "than the perspective of the organization that the question says you work for."
-msgstr ""
-"因為你是學生，失業不找工作，或者退休;請根據你自己的觀點回答剩下的問題，而不是"
-"問題所說的你工作的組織的觀點。"
+msgstr "因為你是學生，無業且不尋求工作機會，或者已退休; "
+"請根據你自己的觀點回答剩下的問題，而不是問題所說的你工作的組織的觀點。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127863398}"
 msgid ""
 "<strong>How would you describe your organization's contribution to OSS "
 "projects?</strong> (select one)"
-msgstr ""
-"<strong>您如何描述貴組織對開放源碼軟體項目的貢獻？</strong> （選擇一項）"
+msgstr "<strong>您如何描述貴組織對開放源碼軟體項目的貢獻？</strong> （選擇一項）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957668529}"
 msgid "Don't know or not sure"
 msgstr "不知道或不確定"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957601398}"
 msgid "OSS contributions are not permitted"
-msgstr "不允許開放源碼軟體貢獻"
+msgstr "不允許開源碼軟體貢獻"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957601399}"
 msgid "OSS contributions are permitted if required by the open source license"
-msgstr "如果開源許可證要求，則允許OSS貢獻"
+msgstr "如果開源授權條款有要求，則允許OSS貢獻"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957601400}"
 msgid "OSS contributions are openly encouraged"
-msgstr "開放源碼軟體的捐款受到公開鼓勵"
+msgstr "開放源碼軟體的貢獻受到公開鼓勵"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957601401}"
 msgid "OSS contributions are up to each development team"
 msgstr "OSS 的貢獻取決於每個開發團隊"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957601402}"
 msgid "No clear policy about OSS contributions"
 msgstr "沒有關於開放源碼軟體貢獻的明確政策"
@@ -1369,75 +1343,62 @@ msgctxt "{\"cxt\": \"question_required\", \"id\": 957839947}"
 msgid "This question requires an answer."
 msgstr "請回答這個問題。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"page_heading\", \"id\": 40142462}"
 msgid ""
 "<strong>Tell us about your organization's contributions to open source</"
 "strong>"
 msgstr "<strong>告訴我們您的組織對開源的貢獻</strong>"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864121}"
 msgid ""
 "<strong>What steps are followed for contributing OSS code in your "
 "organization?</strong> (select all that apply)"
-msgstr ""
-"<strong>在您的組織中貢獻 OSS 代碼遵循哪些步驟？</strong> （選擇所有適用項目）"
+msgstr "<strong>在您的組織中貢獻 OSS 代碼遵循哪些步驟？</strong> （選擇所有適用項目）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957669460}"
 msgid "Don’t know or not sure"
 msgstr "不知道或不確定"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605032}"
 msgid "Functional software quality assurance testing"
-msgstr "功能性軟體質量保證測試"
+msgstr "功能性軟體品質保證測試"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605033}"
 msgid "Security and vulnerability testing"
 msgstr "安全和漏洞測試"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605034}"
 msgid "Code review by peers"
-msgstr "同行代碼審查"
+msgstr "同儕程式碼審查"
 
 #, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605035}"
 msgid "Legal / compliance approval and sign-off"
 msgstr "法律/合規審批和簽署"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605036}"
 msgid "Recording of time spent contributing"
 msgstr "記錄貢獻所花費的時間"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605037}"
 msgid "Component documentation"
 msgstr "元件文件"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605038}"
 msgid "SBOM development"
-msgstr "中科發展"
+msgstr "軟體物料清單發展"
 
 msgctxt "{\"cxt\": \"question_required\", \"id\": 957840024}"
 msgid "This question requires an answer."
 msgstr "請回答這個問題。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864122}"
 msgid ""
 "<strong>In which of the following areas does your organization contribute to "
 "OSS?</strong> (select all that apply)"
-msgstr ""
-"<strong>貴組織在以下哪些方面為開放源碼軟體做出了貢獻？</strong> （選擇所有適用"
-"項目）"
+msgstr "<strong>貴組織在以下哪些方面為開放源碼軟體做出了貢獻？</strong> "
+"（選擇所有適用項目）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957669770}"
 msgid "Don’t know or not sure"
 msgstr "不知道或不確定"
@@ -1470,10 +1431,9 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605046}"
 msgid "Cybersecurity"
 msgstr "網路安全"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605047}"
 msgid "Database and data management"
-msgstr "資料庫和數據管理"
+msgstr "資料庫和資料管理"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605048}"
 msgid "DevOps / GitOps / DevSecOps"
@@ -1527,46 +1487,39 @@ msgctxt "{\"cxt\": \"question_required\", \"id\": 957840026}"
 msgid "This question requires an answer."
 msgstr "請回答這個問題。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864123}"
 msgid ""
 "<strong>Has your organization made any of the following OSS contributions?</"
 "strong> (select all that apply)"
-msgstr ""
-"<strong>貴組織是否做出了以下任何 OSS 貢獻？</strong> （選擇所有適用項目）"
+msgstr "<strong>貴組織是否做出了以下任何開源軟體貢獻？</strong> （選擇所有適用項目）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957671048}"
 msgid "None of the above"
 msgstr "以上都不是"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605060}"
 msgid "Contributed code to an open source project"
-msgstr "為開源項目貢獻代碼"
+msgstr "為開源項目貢獻程式碼"
 
 #, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605061}"
 msgid "Opened an issue on an open source project"
 msgstr "打開了一個關於開源項目的問題"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605062}"
 msgid ""
 "Answered queries relating to an open source project on an online community (e."
 "g., Stack Overflow, Reddit)"
-msgstr "回答了與在線社區（例如，Stack Overflow，Reddit）上的開源專案相關的查詢"
+msgstr "回答線上社群（例如，Stack Overflow，Reddit）開源專案相關的提問"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605063}"
 msgid "Helped with open source documentation"
-msgstr "説明開源文檔"
+msgstr "幫助開源軟體文件"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605064}"
 msgid "Contributed designs, graphics, or other non-code assets"
-msgstr "貢獻的設計、圖形或其他非代碼資產"
+msgstr "貢獻設計、圖形或其他非程式碼資產"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605065}"
 msgid "Don’t know or not sure"
 msgstr "不知道或不確定"
@@ -1583,27 +1536,22 @@ msgid ""
 msgstr ""
 "<strong>OSS 貢獻在組織中多久提供一次以下好處：</strong> （每行選擇一個回應）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605067}"
 msgid "Improved software quality"
 msgstr "提高軟體品質"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605068}"
 msgid "Improved security"
 msgstr "提高安全性"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605069}"
 msgid "Makes the organization a better place to work"
 msgstr "使組織成為更好的工作場所"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605070}"
 msgid "Enables the IT industry to be more innovative"
 msgstr "使IT行業更具創新性"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605071}"
 msgid "Fulfill a moral obligation to other OSS consumers"
 msgstr "履行對其他OSS消費者的道德義務"
@@ -1628,7 +1576,6 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957607247}"
 msgid "Always"
 msgstr "總是"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957607248}"
 msgid "Don't know or not sure"
 msgstr "不知道或不確定"
@@ -1637,78 +1584,64 @@ msgctxt "{\"cxt\": \"question_required\", \"id\": 957840030}"
 msgid "This question requires an answer."
 msgstr "請回答這個問題。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864125}"
 msgid ""
 "<strong>Over the last year, has the overall benefits your organization "
 "derives from OSS contributions changed?</strong> (select one)"
-msgstr ""
-"<strong>在過去一年中，貴組織從開放源碼軟體貢獻中獲得的總體利益是否發生了變化？"
-"</strong> （選擇一項）"
+msgstr "<strong>在過去一年中，貴組織從開放源碼軟體貢獻中獲得的總體利益是否發生了變化"
+"？</strong> （選擇一項）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957671743}"
 msgid "Don’t know or not sure"
 msgstr "不知道或不確定"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605072}"
 msgid "It has decreased a lot"
-msgstr "它已經減少了很多"
+msgstr "減少很多"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605073}"
 msgid "It has decreased a little"
-msgstr "它有所下降"
+msgstr "減少一點"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605074}"
 msgid "It has stayed the same"
-msgstr "它一直保持不變"
+msgstr "保持不變"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605075}"
 msgid "It has increased a little"
-msgstr "它增加了一點"
+msgstr "增加一點"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605076}"
 msgid "It has increased a lot"
-msgstr "它增加了很多"
+msgstr "增加很多"
 
 msgctxt "{\"cxt\": \"question_required\", \"id\": 957840032}"
 msgid "This question requires an answer."
 msgstr "請回答這個問題。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864126}"
 msgid ""
 "<strong>Does your organization agree or disagree that its OSS contributions "
 "are limited by:</strong> (select one response per row)"
-msgstr ""
-"<strong>貴組織是否同意其OSS貢獻受以下因素限制：</strong> （每行選擇一個回應）"
+msgstr "<strong>貴組織是否同意其開源軟體貢獻受以下因素限制：</strong> "
+"（每行選擇一個回應）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605078}"
 msgid "A clear lack of return on investment"
 msgstr "明顯缺乏投資回報"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605079}"
 msgid "A fear of leaking intellectual property (IP)"
-msgstr "擔心洩露智慧財產權 （IP）"
+msgstr "擔心洩露智慧財產（IP）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605080}"
 msgid "Legal or licensing concerns"
-msgstr "法律或許可問題"
+msgstr "法律或授權顧慮"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605081}"
 msgid "Technology constraints and challenges"
 msgstr "技術限制和挑戰"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605082}"
 msgid "A lack of policy or training materials"
 msgstr "缺乏政策或培訓材料"
@@ -1725,7 +1658,6 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957609429}"
 msgid "Agree"
 msgstr "同意"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957609430}"
 msgid "Don't know or not sure"
 msgstr "不知道或不確定"
@@ -1743,72 +1675,58 @@ msgstr ""
 "<strong>如果您的組織投資於以下行動，OSS 的貢獻將改變多少：</strong> （每行選擇"
 "一個回應）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605083}"
 msgid "Providing clearer policies to employees"
-msgstr "為員工提供更清晰的政策"
+msgstr "提供員工更清晰的政策"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605084}"
 msgid "Providing organization-wide education on the OSS value proposition"
-msgstr "在全組織範圍內提供有關 OSS 價值主張的教育"
+msgstr "在組織範圍內提供開源軟體價值主張的教育"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605085}"
 msgid "Funding open source projects"
 msgstr "資助開源專案"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605086}"
 msgid "Addressing licensing concerns"
-msgstr "解決許可問題"
+msgstr "解決授權問題"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605087}"
 msgid "Addressing security concerns"
-msgstr "解決安全問題"
+msgstr "解決安全顧慮"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605088}"
 msgid "Getting involved in industry or government policy making"
 msgstr "參與行業或政府政策制定"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605089}"
 msgid "Open sourcing its own products or internal tools"
 msgstr "開源自己的產品或內部工具"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605090}"
 msgid "Allocating employee time for open source contributions"
-msgstr "為開源貢獻分配員工時間"
+msgstr "分派僱員工時為開源貢獻"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957611089}"
 msgid "Decrease a lot"
 msgstr "減少很多"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957611090}"
 msgid "Decrease a little"
 msgstr "減少一點"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957611091}"
 msgid "Stay the same"
 msgstr "保持不變"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957611092}"
 msgid "Increase a little"
 msgstr "增加一點"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957611093}"
 msgid "Increase a lot"
 msgstr "增加很多"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957611094}"
 msgid "Don't know or not sure"
 msgstr "不知道或不確定"
@@ -1817,17 +1735,14 @@ msgctxt "{\"cxt\": \"question_required\", \"id\": 957840072}"
 msgid "This question requires an answer."
 msgstr "請回答這個問題。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864128}"
 msgid ""
 "<strong>Do you spend time at work contributing to projects managed by other "
 "teams within your organization (i.e., inner source projects)?</strong> "
 "(select one)"
-msgstr ""
-"您是否花時間在<strong>工作中為組織內其他團隊管理的專案（即內部源專案）做出貢"
-"獻？</strong>（選擇一項）"
+msgstr "<strong>您是否在工作中, "
+"花時間為組織內其他團隊的專案（即內部源碼專案）做出貢獻？</strong>（選擇一項）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957672643}"
 msgid "Don’t know or not sure"
 msgstr "不知道或不確定"
@@ -1836,35 +1751,29 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605091}"
 msgid "No"
 msgstr "否"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605092}"
 msgid "1-4 hours per week"
-msgstr "每周1-4小時"
+msgstr "每周 1-4 小時"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605093}"
 msgid "5-10 hours per week"
-msgstr "每周5-10小時"
+msgstr "每周 5-10 小時"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605094}"
 msgid "11-20 hours per week"
-msgstr "每周11-20小時"
+msgstr "每周11-20 小時"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605095}"
 msgid "21-30 hours per week"
-msgstr "每周21-30小時"
+msgstr "每周 21-30 小時"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605096}"
 msgid "31-40 hours per week"
-msgstr "每周31-40小時"
+msgstr "每周 31-40 小時"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605097}"
 msgid "More than 40 hours per week"
-msgstr "每周超過40小時"
+msgstr "每周超過 40 小時"
 
 msgctxt "{\"cxt\": \"question_required\", \"id\": 957840074}"
 msgid "This question requires an answer."
@@ -1880,7 +1789,6 @@ msgstr ""
 "<strong>您是否花時間在工作中為僱主創立、採用或贊助的外部分散式開源專案做出貢"
 "獻？</strong>（選擇一項）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957673404}"
 msgid "Don’t know or not sure"
 msgstr "不知道或不確定"
@@ -1889,51 +1797,42 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605099}"
 msgid "No"
 msgstr "否"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605100}"
 msgid "1-4 hours per week"
-msgstr "每周1-4小時"
+msgstr "每周 1-4 小時"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605101}"
 msgid "5-10 hours per week"
-msgstr "每周5-10小時"
+msgstr "每周 5-10 小時"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605102}"
 msgid "11-20 hours per week"
-msgstr "每周11-20小時"
+msgstr "每周 11-20 小時"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605103}"
 msgid "21-30 hours per week"
-msgstr "每周21-30小時"
+msgstr "每周 21-30 小時"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605104}"
 msgid "31-40 hours per week"
-msgstr "每周31-40小時"
+msgstr "每周 31-40 小時"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605105}"
 msgid "More than 40 hours per week"
-msgstr "每周超過40小時"
+msgstr "每周超過 40 小時"
 
 msgctxt "{\"cxt\": \"question_required\", \"id\": 957840075}"
 msgid "This question requires an answer."
 msgstr "請回答這個問題。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864130}"
 msgid ""
 "<strong>Do you spend time at work contributing to third-party open source "
 "projects (i.e., those where your employer has no commercial relationship)?</"
 "strong> (select one)"
-msgstr ""
-"您是否花時間在<strong>工作中為第三方開源專案（即您的僱主沒有商業關係的專案）做"
-"出貢獻？</strong>（選擇一項）"
+msgstr "<strong>您是否花時間在工作中為第三方開源專案（即您的僱主沒有商業關係的專案）"
+"做出貢獻？</strong>（選擇一項）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957673621}"
 msgid "Don’t know or not sure"
 msgstr "不知道或不確定"
@@ -1942,49 +1841,40 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605107}"
 msgid "No"
 msgstr "否"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605108}"
 msgid "1-4 hours per week"
-msgstr "每周1-4小時"
+msgstr "每周 1-4 小時"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605109}"
 msgid "5-10 hours per week"
-msgstr "每周5-10小時"
+msgstr "每周 5-10 小時"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605110}"
 msgid "11-20 hours per week"
-msgstr "每周11-20小時"
+msgstr "每周 11-20 小時"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605111}"
 msgid "21-30 hours per week"
-msgstr "每周21-30小時"
+msgstr "每周 21-30 小時"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605112}"
 msgid "31-40 hours per week"
-msgstr "每周31-40小時"
+msgstr "每周 31-40 小時"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605113}"
 msgid "More than 40 hours per week"
-msgstr "每周超過40小時"
+msgstr "每周超過 40 小時"
 
 msgctxt "{\"cxt\": \"question_required\", \"id\": 957840076}"
 msgid "This question requires an answer."
 msgstr "請回答這個問題。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864133}"
 msgid ""
 "<strong>Do you spend any of your personal time contributing to open source "
 "projects?</strong> (select one)"
-msgstr ""
-"<strong>您是否將任何個人時間花在為開源專案做出貢獻上？</strong>（選擇一項）"
+msgstr "<strong>您是否有運用個人時間貢獻於開源專案？</strong>（選擇一項）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957673723}"
 msgid "Don’t know or not sure"
 msgstr "不知道或不確定"
@@ -1993,101 +1883,82 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605135}"
 msgid "No"
 msgstr "否"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605136}"
 msgid "1-4 hours per week"
-msgstr "每周1-4小時"
+msgstr "每周 1-4 小時"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605137}"
 msgid "5-10 hours per week"
-msgstr "每周5-10小時"
+msgstr "每周 5-10 小時"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605138}"
 msgid "11-20 hours per week"
-msgstr "每周11-20小時"
+msgstr "每周 11-20 小時"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605139}"
 msgid "21-30 hours per week"
-msgstr "每周21-30小時"
+msgstr "每周21-30 小時"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605140}"
 msgid "31-40 hours per week"
-msgstr "每周31-40小時"
+msgstr "每周 31-40 小時"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605141}"
 msgid "More than 40 hours per week"
-msgstr "每周超過40小時"
+msgstr "每周超過 40 小時"
 
 msgctxt "{\"cxt\": \"question_required\", \"id\": 957840077}"
 msgid "This question requires an answer."
 msgstr "請回答這個問題。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864134}"
 msgid ""
 "<strong>How influential are the following factors when considering whether or "
 "not to contribute your personal time to open source projects?</strong> "
 "(select one response per row)"
-msgstr ""
-"<strong>在考慮是否為開源項目貢獻個人時間時，以下因素的影響有多大？</strong> "
+msgstr "<strong>在考慮是否為開源項目貢獻個人時間時，以下因素的影響有多大？</strong> "
 "（每行選擇一個回應）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605144}"
 msgid "Learning and personal development"
 msgstr "學習和個人發展"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605145}"
 msgid "Improving my career opportunities"
-msgstr "改善我的職業機會"
+msgstr "改善我的工作機會"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605146}"
 msgid "Responsibility towards open source"
 msgstr "對開源的責任"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605147}"
 msgid "I enjoy working with my peers and the community"
-msgstr "我喜歡與同齡人和社區合作"
+msgstr "我喜歡與同儕和社群合作"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605148}"
 msgid "Fulfilling a technology need not met elsewhere"
 msgstr "滿足其他地方無法滿足的技術需求"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957675696}"
 msgid "Not at all influential"
 msgstr "完全沒有影響力"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957675697}"
 msgid "Not very influential"
 msgstr "不是很有影響力"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957675698}"
 msgid "Somewhat influential"
 msgstr "有點影響力"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957675699}"
 msgid "Very influential"
 msgstr "非常有影響力"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957675700}"
 msgid "Extremely influential"
 msgstr "極具影響力"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957675701}"
 msgid "Don't know or not sure"
 msgstr "不知道或不確定"
@@ -2096,29 +1967,24 @@ msgctxt "{\"cxt\": \"question_required\", \"id\": 957840078}"
 msgid "This question requires an answer."
 msgstr "請回答這個問題。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127864135}"
 msgid ""
 "<strong>How do you feel about the third-party OSS projects you contribute to?"
 "</strong> (select one)"
-msgstr "您<strong>如何看待您參與的第三方 OSS 專案？</strong>（選擇一項）"
+msgstr "<strong>您如何看待您參與的第三方 OSS 專案？</strong>（選擇一項）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957676547}"
 msgid "Don’t know or not sure"
 msgstr "不知道或不確定"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605149}"
 msgid "I don't contribute to third-party OSS projects"
 msgstr "我不參與第三方 OSS 專案"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605150}"
 msgid "I definitely do not feel part of the project"
 msgstr "我絕對不覺得自己是專案的一部分"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605151}"
 msgid "I do not feel part of the project"
 msgstr "我不覺得自己是專案的一部分"
@@ -2126,14 +1992,12 @@ msgstr "我不覺得自己是專案的一部分"
 #, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605152}"
 msgid "I neither feel nor not feel part of the project"
-msgstr "我既不覺得也不覺得自己是專案的一部分"
+msgstr "我覺得自己可能是, 也可能不是是專案的一部分"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605153}"
 msgid "I feel part of the project"
 msgstr "我覺得自己是專案的一部分"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605154}"
 msgid "I definitely feel part of the project"
 msgstr "我絕對覺得自己是專案的一部分"
@@ -2142,21 +2006,17 @@ msgctxt "{\"cxt\": \"question_required\", \"id\": 957840080}"
 msgid "This question requires an answer."
 msgstr "請回答這個問題。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"page_heading\", \"id\": 40143133}"
 msgid "<strong>The value of open source to your organization</strong>"
-msgstr "<strong>開源對組織的價值</strong>"
+msgstr "<strong>開源對貴組織的價值</strong>"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867948}"
 msgid ""
 "<strong>To what extent do you agree or disagree that OSS is valuable to the "
 "future of your organization?</strong> (select one)"
-msgstr ""
-"<strong>您在多大程度上同意或不同意開放源碼軟體對貴組織的未來有價值？</strong> "
-"（選擇一項）"
+msgstr "<strong>您在多大程度上同意或不同意開放源碼軟體對貴組織的未來有價值？</"
+"strong> （選擇一項）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957677081}"
 msgid "Don’t know or not sure"
 msgstr "不知道或不確定"
@@ -2165,17 +2025,14 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628185}"
 msgid "Strongly disagree"
 msgstr "非常不同意"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628186}"
 msgid "Somewhat disagree"
 msgstr "有點不同意"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628187}"
 msgid "Neither agree nor disagree"
 msgstr "既不同意也不反對"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628188}"
 msgid "Somewhat agree"
 msgstr "有點同意"
@@ -2188,17 +2045,14 @@ msgctxt "{\"cxt\": \"question_required\", \"id\": 957840200}"
 msgid "This question requires an answer."
 msgstr "請回答這個問題。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867949}"
 msgid ""
 "<strong>To what extent do you agree or disagree that open source is valuable "
 "to the future of the industry your organization is a part of?</strong> "
 "(select one)"
-msgstr ""
-"<strong>您在多大程度上同意或不同意開源對您的組織所屬行業的未來有價值？</"
+msgstr "<strong>您在多大程度上同意或不同意開源對您的組織所屬行業的未來有價值？</"
 "strong> （選擇一項）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957677442}"
 msgid "Don’t know or not sure"
 msgstr "不知道或不確定"
@@ -2207,17 +2061,14 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628191}"
 msgid "Strongly disagree"
 msgstr "非常不同意"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628192}"
 msgid "Somewhat disagree"
 msgstr "有點不同意"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628193}"
 msgid "Neither agree nor disagree"
-msgstr "既不同意也不反對"
+msgstr "不同意也不反對"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628194}"
 msgid "Somewhat agree"
 msgstr "有點同意"
@@ -2230,16 +2081,13 @@ msgctxt "{\"cxt\": \"question_required\", \"id\": 957840201}"
 msgid "This question requires an answer."
 msgstr "請回答這個問題。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867950}"
 msgid ""
 "<strong>Which open source technologies do you feel are the most valuable to "
 "the future of your industry?</strong> (select between one and three responses)"
-msgstr ""
-"<strong>您認為哪些開源技術對您所在行業的未來最有價值？</strong> （在一到三個回"
-"應中選擇）"
+msgstr "<strong>您認為哪些開源技術對您所在行業的未來最有價值？</strong> "
+"（在一到三個回應中選擇）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957678512}"
 msgid "Don’t know or not sure"
 msgstr "不知道或不確定"
@@ -2272,10 +2120,9 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628203}"
 msgid "Cybersecurity"
 msgstr "網路安全"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628204}"
 msgid "Database and data management"
-msgstr "資料庫和數據管理"
+msgstr "資料庫和資料管理"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628205}"
 msgid "DevOps / GitOps / DevSecOps"
@@ -2325,34 +2172,28 @@ msgctxt "{\"cxt\": \"question_other\", \"id\": 957678513}"
 msgid "Other (please specify)"
 msgstr "其他（请列明）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_required\", \"id\": 957686968}"
 msgid "This question requires between one and three responses."
 msgstr "這個問題需要一到三個答案。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867951}"
 msgid ""
 "<strong>Which aspects of your industry do you think would most benefit from "
 "open source?</strong> (select all that apply)"
-msgstr ""
-"<strong>您認為您所在行業的哪些方面最能從開源中受益？</strong> （選擇所有適用項"
-"目）"
+msgstr "<strong>您認為您所在行業的哪些方面最能從開源中受益？</strong> "
+"（選擇所有適用項目）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957678892}"
 msgid "Don’t know or not sure"
 msgstr "不知道或不確定"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628217}"
 msgid "Industry standards and interoperability"
 msgstr "行業標準和互操作性"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628218}"
 msgid "Regulation and legal compliance"
-msgstr "法規和法律合規"
+msgstr "監管和法令遵循"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628219}"
 msgid "Transparency"
@@ -2362,12 +2203,10 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628220}"
 msgid "Risk management"
 msgstr "風險管理"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628221}"
 msgid "Reduced operating costs"
 msgstr "降低運營成本"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628222}"
 msgid "Reduced product development costs"
 msgstr "降低產品開發成本"
@@ -2376,12 +2215,10 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628223}"
 msgid "Productivity"
 msgstr "生產力"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628224}"
 msgid "Data sharing"
-msgstr "數據共用"
+msgstr "資料共用"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628225}"
 msgid "Collaboration"
 msgstr "協作"
@@ -2407,11 +2244,8 @@ msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867952}"
 msgid ""
 "<strong>Which industries do you think would most benefit from investing in "
 "open source?</strong> (select between one and three responses)"
-msgstr ""
-"<strong>您認為哪些行業將從投資開源中受益最大？</strong> （在一到三個回應中選"
-"擇）"
+msgstr "<strong>您認為哪些行業將從投資開源中受益最大？</strong> （選擇一到三個回應）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957680133}"
 msgid "Don’t know or not sure"
 msgstr "不知道或不確定"
