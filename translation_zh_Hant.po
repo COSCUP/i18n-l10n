@@ -1,12 +1,13 @@
 # Chinese (Traditional) translations for survey.
 #
+# Weblate Admin <toomore0929@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-05-08 17:18+0000\n"
-"PO-Revision-Date: 2023-05-14 13:57+0000\n"
-"Last-Translator: Sorry <word.press@m2k.com.tw>\n"
+"PO-Revision-Date: 2023-05-16 03:51+0000\n"
+"Last-Translator: Weblate Admin <toomore0929@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://weblate.toomore.net/projects/"
 "linux-foundation-survey-zh-hant/survey-2023/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -17,10 +18,9 @@ msgstr ""
 "X-Generator: Weblate 4.17\n"
 "Generated-By: Babel 2.9.1\n"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"survey_title_html\", \"id\": 511771208}"
 msgid "World of Open Source: Global Spotlight 2023"
-msgstr "開源世界：2023年全球聚焦"
+msgstr "全球開放原始碼：聚焦 2023"
 
 msgctxt "{\"cxt\": \"page_heading\", \"id\": 39733434}"
 msgid "<strong>Introduction</strong>"
@@ -52,31 +52,30 @@ msgid ""
 "</div>"
 msgstr ""
 "<div>\n"
-"<div>感謝您參與Linux基金會的「開源世界：2023年全球聚焦」調查，該調查的目的是"
-"想更加瞭解跨地區和行業的開源動態。</div>\n"
+"<div>感謝您參與 Linux 基金會的「全球開放原始碼：聚焦 "
+"2023」問卷調查，該問卷調查的目的是想更加瞭解跨地區和行業的開源動態。</div>\n"
 "<div> </div>\n"
-"<div>您的回覆是匿名的，將用於編製將於今年稍後發佈的報告。</div>\n"
+"<div>您的回覆是匿名的，將用於編製於今年稍後發佈的報告。</div>\n"
 "<div> </div>\n"
-"<div>為了感謝您參與這項研究，一旦您完成調查，確認頁面上將顯示一個代碼，"
-"可用於我們目錄中列出的任何 Linux 基礎培訓課程或認證考試的 25% "
-"折扣：https://training.linuxfoundation.org/full-catalog/。</div>\n"
+"<div>為了感謝您參與這項研究，一旦您完成問卷，確認頁面上將顯示一個代碼，"
+"可用於我們目錄中列出的任何 Linux 基礎培訓課程或認證考試的 25% 折扣： "
+"https://training.linuxfoundation.org/full-catalog/ 。</div>\n"
 "<div> </div>\n"
-"<div>您的姓名和/或組織名稱將不會顯示。資料會依據您的角色、組織規模和行業進行"
-"統計分析。回覆將受Linux基金會隱私政策的約束，可在 https://linuxfoundation."
-"org/privacy 上找到。請注意，非 Linux 基金會員工的研究合作夥伴將查看調查結果。"
-"調查合作夥伴不得將您的數據用於其他目的。</div>\n"
+"<div>您的姓名、組織名稱將不會顯示。資料會依據您的角色、組織規模和行業進行統計"
+"分析。回覆將受 Linux 基金會隱私政策的約束，可在 https://linuxfoundation.org/"
+"privacy 上找到。請注意，非 Linux 基金會員工的研究合作夥伴將查看問卷調查結果。"
+"問卷合作夥伴不得將您的數據用於其他目的。</div>\n"
 "</div>"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"page_heading\", \"id\": 40141391}"
 msgid "<strong>Introductory Questions</strong>"
-msgstr "<strong>介紹性問題</strong>"
+msgstr "<strong>入門問題</strong>"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127858594}"
 msgid ""
 "<strong>What is your level of familiarity with how your organization uses and "
 "contributes to open source software (OSS)?</strong> (select one)"
-msgstr "<strong>您對您的組織使用開源軟體（OSS）的狀況並為其做出貢獻的熟悉程度如何？</"
+msgstr "<strong>您對組織如何使用開源軟體 （OSS） 並為其做出貢獻的熟悉程度如何？</"
 "strong> （選擇一項）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957641631}"
@@ -346,7 +345,7 @@ msgstr "產品或專案管理"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577158}"
 msgid "Open source program office (OSPO) team"
-msgstr "開源專案辦公室 （OSPO） 團隊"
+msgstr "開放原始碼專案辦公室 （OSPO） 團隊"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577159}"
 msgid "C-level (CEO, CFO, CTO, CIO, CISO, CSO)"
@@ -720,7 +719,7 @@ msgstr "以上都不是"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584398}"
 msgid "Implemented an OSPO (Open Source Program Office)"
-msgstr "實施OSPO（開源計劃辦公室）"
+msgstr "實施 OSPO（開放原始碼計畫辦公室）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584399}"
 msgid "Defined a clear and visible open source strategy"
@@ -862,7 +861,7 @@ msgstr "我們必須對開發人員進行安全軟體開發方面的培訓"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590108}"
 msgid "Our OSPO works with developers to ensure its policies are followed"
-msgstr "我們的OSPO與開發商合作，確保其政策得到遵守"
+msgstr "我們的開放原始碼計畫辦公室（OSPO）與開發者合作，確保遵守其政策"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590110}"
 msgid "Don't know or not sure"
@@ -951,7 +950,7 @@ msgstr "不知道或不確定"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590122}"
 msgid "Advanced analytics and data science"
-msgstr "高級分析和資料科學"
+msgstr "進階分析和資料科學"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590123}"
 msgid "Artificial Intelligence / Machine Learning"
@@ -977,10 +976,9 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590128}"
 msgid "Cybersecurity"
 msgstr "網路安全"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590129}"
 msgid "Database and data management"
-msgstr "資料庫和數據管理"
+msgstr "資料庫和資料管理"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590130}"
 msgid "DevOps / GitOps / DevSecOps"
@@ -1028,64 +1026,54 @@ msgstr "請留下您的評價。"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 957661905}"
 msgid "Other (please specify)"
-msgstr "其他（请列明）"
+msgstr "其他（請列舉）"
 
 msgctxt "{\"cxt\": \"question_required\", \"id\": 957839678}"
 msgid "This question requires an answer."
 msgstr "請回答這個問題。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861752}"
 msgid ""
 "<strong>How often does using OSS deliver the following benefits in your "
 "organization?</strong> (select one response per row)"
-msgstr ""
-"<strong>使用OSS多久在您的組織中提供以下好處？</strong> （每行選擇一個回應）"
+msgstr "<strong>在您的組織中，使用開源軟體（OSS）通常能帶來下列哪些好處？</strong> "
+"（每行選擇一個回應）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590142}"
 msgid "Improved software quality"
 msgstr "提高軟體品質"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590143}"
 msgid "Improved productivity"
-msgstr "提高生產率"
+msgstr "提高工作效率"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590144}"
 msgid "Improved security"
 msgstr "提高安全性"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590145}"
 msgid "Lower cost of software ownership"
 msgstr "降低軟體擁有成本"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590146}"
 msgid "Lower cost of IT operations"
 msgstr "降低 IT 運營成本"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590147}"
 msgid "Less vendor lock-in"
-msgstr "減少供應商鎖定"
+msgstr "減少供應商技術依賴（lock-in）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590148}"
 msgid "Facilitates  innovation"
 msgstr "促進創新"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590149}"
 msgid "Make the organization a better place to work"
-msgstr "讓組織成為更好的工作場所"
+msgstr "讓組織成為更好的工作環境"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590150}"
 msgid "Less development time to market"
-msgstr "縮短開發上市時間"
+msgstr "縮短開發至上市時間"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957593684}"
 msgid "Never"
@@ -1107,7 +1095,6 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957593688}"
 msgid "Always"
 msgstr "總是"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957593689}"
 msgid "Don't know or not sure"
 msgstr "不知道或不確定"
@@ -1116,45 +1103,37 @@ msgctxt "{\"cxt\": \"question_required\", \"id\": 957839680}"
 msgid "This question requires an answer."
 msgstr "請回答這個問題。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861753}"
 msgid ""
 "<strong>Do you agree or disagree that OSS use in your organization is limited "
 "by:</strong> (select one response per row)"
-msgstr ""
-"<strong>您是否同意或不同意OSS在您的組織中的使用受到以下限制：</strong> （每行"
-"選擇一個回應）"
+msgstr "<strong>您是否同意或不同意，貴組織中使用開源軟體受到以下限制：</strong> "
+"（每行選擇一個回應）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590151}"
 msgid "A lack of understanding of the non-technical value proposition"
-msgstr "缺乏對非技術價值主張的理解"
+msgstr "對非技術價值主張缺乏理解"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590152}"
 msgid "Licensing of intellectual property (IP) concerns"
-msgstr "智慧財產權許可問題"
+msgstr "智慧財產權（IP）許可問題"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590153}"
 msgid ""
 "A lack of a clear policy or supporting training and guidance on how to use OSS"
-msgstr "缺乏關於如何使用開放源碼軟體的明確政策或支援性培訓和指導"
+msgstr "缺乏關於如何使用開放原始碼軟體的明確政策或支援培訓和指導"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590154}"
 msgid "External regulations or other formal restrictions"
 msgstr "外部法規或其他正式限制"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590155}"
 msgid "Concerns about the quality of OSS components"
-msgstr "對OSS元件質量的擔憂"
+msgstr "對開放原始碼軟體元件品質的擔憂"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590156}"
 msgid "Concerns about the security of OSS components"
-msgstr "對 OSS 元件安全性的擔憂"
+msgstr "對開放原始碼軟體元件安全性的擔憂"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957595238}"
 msgid "Disagree"
@@ -1168,7 +1147,6 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957595240}"
 msgid "Agree"
 msgstr "同意"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957595241}"
 msgid "Don't know or not sure"
 msgstr "不知道或不確定"
@@ -1177,51 +1155,41 @@ msgctxt "{\"cxt\": \"question_required\", \"id\": 957839687}"
 msgid "This question requires an answer."
 msgstr "請回答這個問題。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861754}"
 msgid ""
 "<strong>How much would OSS use change if your organization invested in the "
 "following:</strong> (select one response per row)"
-msgstr ""
-"<strong>如果您的組織在以下方面進行了投資，OSS 將使用多少更改：</strong> （每行"
-"選擇一個回應）"
+msgstr "<strong>如果您的組織投資於下列項目，使用開放原始碼軟體的程度會有多大改變？</"
+"strong> （每行選擇一個回應）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590157}"
 msgid "Understanding the non-technical value proposition of OSS"
-msgstr "瞭解 OSS 的非技術價值主張"
+msgstr "瞭解開放原始碼軟體的非技術價值主張"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590158}"
 msgid "Implementing or improving an Open Source Program Office (OSPO)"
-msgstr "實施或改進開源計劃辦公室 （OSPO）"
+msgstr "實施或改進開放原始碼計劃辦公室 （OSPO）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590159}"
 msgid "Developing a clear and visible strategy for OSS"
-msgstr "為開放源碼軟體制定清晰可見的戰略"
+msgstr "為開放原始碼軟體制定清晰與可見的策略"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590160}"
 msgid "Implementing a consistent policy or supporting training and guidance"
-msgstr "實施一致的政策或支持培訓和指導"
+msgstr "實施一致的政策或支援培訓和指導"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590161}"
 msgid "Improving legal, compliance, or security support"
 msgstr "改進法律、合規性或安全支援"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590162}"
 msgid "Providing automated tooling to support policy"
-msgstr "提供自動化工具以支援策略"
+msgstr "提供自動化工具以支援政策"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590163}"
 msgid "Improving how we do secure software development"
-msgstr "改進我們進行安全軟體開發的方式"
+msgstr "改進我們進行安全軟體的開發方式"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590164}"
 msgid "Using software bill of materials (SBOM) to improve component trust"
 msgstr "使用軟體物料清單 （SBOM） 提高元件信任度"
