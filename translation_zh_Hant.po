@@ -4,13 +4,14 @@
 # Pofeng Lee <pofeng@gmail.com>, 2023.
 # "Chung-Yu, Hsu" <chungyu.hsu@gmail.com>, 2023.
 # Toomore Chiang <toomore0929@gmail.com>, 2023.
+# "Shen-Ta Hsieh(BestSteve)" <ibmibmibm.tw@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-05-08 17:18+0000\n"
-"PO-Revision-Date: 2023-05-16 04:22+0000\n"
-"Last-Translator: Toomore Chiang <toomore0929@gmail.com>\n"
+"PO-Revision-Date: 2023-05-16 08:16+0000\n"
+"Last-Translator: \"Shen-Ta Hsieh(BestSteve)\" <ibmibmibm.tw@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://weblate.toomore.net/projects/"
 "linux-foundation-survey-zh-hant/survey-2023/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -298,7 +299,7 @@ msgstr "請留下您的評價。"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 957644357}"
 msgid "Other (please specify)"
-msgstr "其他（请列明）"
+msgstr "其他（請明確說明）"
 
 msgctxt "{\"cxt\": \"question_required\", \"id\": 957834120}"
 msgid "This question requires an answer."
@@ -372,7 +373,7 @@ msgstr "請留下您的評價。"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 957645016}"
 msgid "Other (please specify)"
-msgstr "其他（请列明）"
+msgstr "其他（請明確說明）"
 
 msgctxt "{\"cxt\": \"question_required\", \"id\": 957834121}"
 msgid "This question requires an answer."
@@ -436,7 +437,7 @@ msgstr "請留下您的評價。"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 957645604}"
 msgid "Other entity (please specify)"
-msgstr "其他單位（請註明）"
+msgstr "其他單位（請明確說明）"
 
 msgctxt "{\"cxt\": \"question_required\", \"id\": 957834154}"
 msgid "This question requires an answer."
@@ -552,7 +553,7 @@ msgstr "請留下您的評價。"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 957646120}"
 msgid "Other (please specify)"
-msgstr "其他（请列明）"
+msgstr "其他（請明確說明）"
 
 msgctxt "{\"cxt\": \"question_required\", \"id\": 957838859}"
 msgid "This question requires an answer."
@@ -662,7 +663,7 @@ msgstr "請留下您的評價。"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 957650480}"
 msgid "Other (please specify)"
-msgstr "其他（请列明）"
+msgstr "其他（請明確說明）"
 
 msgctxt "{\"cxt\": \"question_required\", \"id\": 957838860}"
 msgid "This question requires an answer."
@@ -757,12 +758,12 @@ msgid ""
 "or deployment of a codebase"
 msgstr ""
 "以下問題都與組織中開源軟體的“使用”有關。使用是指以下任何一項：<br>• "
-"使用開源庫作為程式庫中的依賴項<br>• 將開原始程式碼複製並貼到程式庫中<br>• "
-"在建立或部署程式庫時使用開原程式工具"
+"在程式碼中使用開源函式庫<br>• 將開源程式碼複製並貼到程式碼中<br>• "
+"在建立或部署程式碼時使用開源程式工具"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861401}"
 msgid "<strong>How much does your organization use OSS?</strong> (select one)"
-msgstr "<strong>貴組織使用OSS的次數是多少？</strong> （選擇一項）"
+msgstr "<strong>貴組織使用開源軟體的次數是多少？</strong> （選擇一項）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957653824}"
 msgid "Don't know or not sure"
@@ -828,7 +829,7 @@ msgstr "請回答這個問題。"
 
 msgctxt "{\"cxt\": \"page_heading\", \"id\": 40142024}"
 msgid "<strong>Tell us about your organization's use of OSS</strong>"
-msgstr "<strong>告訴我們貴組織對 OSS 的使用方式</strong>"
+msgstr "<strong>告訴我們貴組織對開源軟體的使用方式</strong>"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861749}"
 msgid ""
@@ -844,11 +845,11 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590103}"
 msgid ""
 "We engage with outside professionals to determine what OSS components we "
 "should use"
-msgstr "我們與外部專業人士合作，以確定我們應該使用哪些開源元件"
+msgstr "我們與外部專業人士合作，以確定我們應該使用哪些開源軟體元件"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590104}"
 msgid "We have a formal review process for evaluating OSS components"
-msgstr "我們有一個正式的審查流程來評估開源元件"
+msgstr "我們有一個正式的審查流程來評估開源軟體元件"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590105}"
 msgid "We have internal manuals, checklists, or guidelines for using OSS"
@@ -878,7 +879,7 @@ msgctxt "{\"cxt\": \"question_heading\", \"id\": 127861750}"
 msgid ""
 "<strong>What actions does your organization usually take before using a new "
 "OSS component?</strong> (select all that apply)"
-msgstr "<strong>在使用新的 OSS 元件之前，您的組織通常會採取哪些動作？</strong> "
+msgstr "<strong>在使用新的開源軟體元件之前，您的組織通常會採取哪些動作？</strong> "
 "（選擇所有適用項目）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957661406}"
@@ -909,7 +910,7 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590115}"
 msgid ""
 "We evaluate the transitive dependencies of the OSS code to determine if it's "
 "too risky to use"
-msgstr "我們評估 OSS 代碼的傳遞依賴關係，以確定使用它的風險是否過大"
+msgstr "我們評估開源軟體程式碼的傳遞依賴關係，以確定使用它的風險是否過大"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590116}"
 msgid "We look at repository ratings or package downloads statistics"
@@ -1028,7 +1029,7 @@ msgstr "請留下您的評價。"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 957661905}"
 msgid "Other (please specify)"
-msgstr "其他（請列舉）"
+msgstr "其他（請明確說明）"
 
 msgctxt "{\"cxt\": \"question_required\", \"id\": 957839678}"
 msgid "This question requires an answer."
@@ -1481,7 +1482,7 @@ msgstr "請留下您的評價。"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 957669771}"
 msgid "Other (please specify)"
-msgstr "其他（请列明）"
+msgstr "其他（請明確說明）"
 
 msgctxt "{\"cxt\": \"question_required\", \"id\": 957840026}"
 msgid "This question requires an answer."
@@ -2164,7 +2165,7 @@ msgstr "請留下您的評價。"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 957678513}"
 msgid "Other (please specify)"
-msgstr "其他（请列明）"
+msgstr "其他（請明確說明）"
 
 msgctxt "{\"cxt\": \"question_required\", \"id\": 957686968}"
 msgid "This question requires between one and three responses."
@@ -2227,7 +2228,7 @@ msgstr "請留下您的評價。"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 957678893}"
 msgid "Other (please specify)"
-msgstr "其他（请列明）"
+msgstr "其他（請明確說明）"
 
 msgctxt "{\"cxt\": \"question_required\", \"id\": 957840202}"
 msgid "This question requires an answer."
@@ -2345,7 +2346,7 @@ msgstr "請留下您的評價。"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 957680134}"
 msgid "Other (please specify)"
-msgstr "其他（请列明）"
+msgstr "其他（請明確說明）"
 
 #, fuzzy
 msgctxt "{\"cxt\": \"question_required\", \"id\": 957681555}"
