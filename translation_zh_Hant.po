@@ -5,13 +5,14 @@
 # "Chung-Yu, Hsu" <chungyu.hsu@gmail.com>, 2023.
 # Toomore Chiang <toomore0929@gmail.com>, 2023.
 # "Shen-Ta Hsieh(BestSteve)" <ibmibmibm.tw@gmail.com>, 2023.
+# Nero Un <hin1997101@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-05-08 17:18+0000\n"
 "PO-Revision-Date: 2023-05-16 08:16+0000\n"
-"Last-Translator: \"Shen-Ta Hsieh(BestSteve)\" <ibmibmibm.tw@gmail.com>\n"
+"Last-Translator: Nero Un <hin1997101@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://weblate.toomore.net/projects/"
 "linux-foundation-survey-zh-hant/survey-2023/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -62,7 +63,7 @@ msgstr ""
 "<div>您的回覆是匿名的，將用於編製於今年稍後發佈的報告。</div>\n"
 "<div> </div>\n"
 "<div>為了感謝您參與這項研究，一旦您完成問卷，確認頁面上將顯示一個代碼，"
-"可用於我們目錄中列出的任何 Linux 基礎培訓課程或認證考試的 25% 折扣： "
+"可用於我們目錄中列出的任何 Linux 基礎培訓課程或認證考試的 75 折優惠： "
 "https://training.linuxfoundation.org/full-catalog/ 。</div>\n"
 "<div> </div>\n"
 "<div>您的姓名、組織名稱將不會顯示。資料會依據您的角色、組織規模和行業進行統計"
@@ -1984,10 +1985,9 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605151}"
 msgid "I do not feel part of the project"
 msgstr "我不覺得自己是專案的一部分"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605152}"
 msgid "I neither feel nor not feel part of the project"
-msgstr "我覺得自己可能是, 也可能不是是專案的一部分"
+msgstr "我覺得自己可能是、也可能不是專案的一部分"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605153}"
 msgid "I feel part of the project"
@@ -2234,12 +2234,12 @@ msgctxt "{\"cxt\": \"question_required\", \"id\": 957840202}"
 msgid "This question requires an answer."
 msgstr "請回答這個問題。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867952}"
 msgid ""
 "<strong>Which industries do you think would most benefit from investing in "
 "open source?</strong> (select between one and three responses)"
-msgstr "<strong>您認為哪些行業將從投資開源中受益最大？</strong> （選擇一到三個回應）"
+msgstr "<strong>您認為哪些產業將從投資開源技術中獲益最大？</strong> "
+"（選擇一到三個回應）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957680133}"
 msgid "Don’t know or not sure"
@@ -2257,22 +2257,18 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628231}"
 msgid "Business services (accounting, management consulting, legal, etc.)"
 msgstr "商務服務（會計、管理僱問、法律等）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628232}"
 msgid "Consumer packaged goods"
 msgstr "包裝消費品"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628233}"
 msgid "Construction / engineering"
-msgstr "建築/工程"
+msgstr "營建/工程"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628234}"
 msgid "Education (K-12, primary, secondary)"
-msgstr "教育（K-12，小學，中學）"
+msgstr "教育（K-12，國小，國中）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628235}"
 msgid "Education (college, university)"
 msgstr "教育（學院、大學）"
@@ -2297,10 +2293,9 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628240}"
 msgid "Hospitality & travel"
 msgstr "餐旅業"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628241}"
 msgid "Information technology (IT vendor, service provider, or manufacturer)"
-msgstr "資訊技術（IT 供應商、服務提供者或製造商）"
+msgstr "資訊科技（IT 供應商、服務商或製造商）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628242}"
 msgid "Life sciences (biotech, pharmaceuticals, etc.)"
@@ -2348,75 +2343,61 @@ msgctxt "{\"cxt\": \"question_other\", \"id\": 957680134}"
 msgid "Other (please specify)"
 msgstr "其他（請明確說明）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_required\", \"id\": 957681555}"
 msgid "This question requires between one and three responses."
-msgstr "這個問題需要一到三個答案。"
+msgstr "這個問題需要一到三個回覆。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867953}"
 msgid ""
 "<strong>In which areas do you think there should be further investment in "
 "open source across your geographic region?</strong> (select between one and "
 "three responses)"
-msgstr ""
-"<strong>您認為您所在的地理區域應該在哪些領域進一步投資開源？</strong> （在一到"
-"三個回應中選擇）"
+msgstr "<strong>您認為目前所在的地區應該在哪些領域進一步投資開源技術？</strong> "
+"（請選擇一到三個回覆）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957684960}"
 msgid "Don't know or not sure"
 msgstr "不知道或不確定"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628253}"
 msgid "Government adoption of open source"
-msgstr "政府採用開源"
+msgstr "政府採納開源技術"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628254}"
 msgid "Better funding of the commercial open source startup ecosystem"
 msgstr "為商業開源創業生態系統提供更好的資金"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628255}"
 msgid "Better academic education"
 msgstr "更好的學術教育"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628256}"
 msgid "Individual incentives (e.g., grants) to maintainers"
-msgstr "對維護者的個人激勵（例如，贈款）"
+msgstr "對維運人員的個人激勵（例如，捐款）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628257}"
 msgid "Mentorship / internship programs"
 msgstr "指導/實習計劃"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628258}"
 msgid "Foster open source global technology standards"
-msgstr "培育開源全球技術標準"
+msgstr "培育全球開源技術標準"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628259}"
 msgid "Additional laws like the Digital Services Act and Digital Markets Act"
-msgstr "《數位服務法》和《數字市場法》等其他法律"
+msgstr "《數位服務法》和《數字市場法》等其他法規"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628260}"
 msgid "Open source as “digital commons” public good"
-msgstr "開源作為「數字共用」公共產品"
+msgstr "開源技術作為「數位開放」的公共產物"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628261}"
 msgid "Open source alternatives to technology monopolies"
 msgstr "技術壟斷的開源替代品"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628262}"
 msgid "A friendlier legal landscape for open source"
-msgstr "為開源提供更友好的法律環境"
+msgstr "為開源提供更友好的法規環境"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957684957}"
 msgid "Please enter a comment."
@@ -2424,65 +2405,53 @@ msgstr "請留下您的評價。"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 957684961}"
 msgid "Other (please specify)"
-msgstr "其他（请列明）"
+msgstr "其他（請列明）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_required\", \"id\": 957683292}"
 msgid "This question requires one to three responses."
-msgstr "這個問題需要一到三個答案。"
+msgstr "這個問題需要一到三個回覆。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867954}"
 msgid ""
 "<strong>Which of the following statements best characterizes your "
 "organization's use of OSS?</strong> (select one)"
-msgstr ""
-"<strong>以下哪項陳述最能說明貴組織使用 OSS 的情況？</strong> （選擇一項）"
+msgstr "<strong>以下哪項陳述最能說明貴組織使用 OSS 的情況？</strong> （選擇一項）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957685232}"
 msgid "Don’t know or not sure"
 msgstr "不知道或不確定"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628265}"
 msgid "Costs greatly exceed the benefits"
 msgstr "成本遠遠超過收益"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628266}"
 msgid "Costs exceed benefits"
 msgstr "成本大於收益"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628267}"
 msgid "Costs and benefits are about the same"
 msgstr "成本和收益大致相同"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628268}"
 msgid "Benefits exceed the costs"
 msgstr "收益大於成本"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628269}"
 msgid "Benefits greatly exceed the costs"
-msgstr "收益遠遠超過成本"
+msgstr "收益遠超過成本"
 
 msgctxt "{\"cxt\": \"question_required\", \"id\": 957840204}"
 msgid "This question requires an answer."
 msgstr "請回答這個問題。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127867955}"
 msgid ""
 "<strong>In general, how should OSS project sustainability be improved?</"
 "strong> (select all that apply)"
-msgstr ""
-"<strong>總的來說，應該如何提高OSS項目的可持續性？</strong> （選擇所有適用項"
-"目）"
+msgstr "<strong>總體而言，該如何提昇 OSS 項目的可持續性？</strong> "
+"（選擇所有適用項目）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957685598}"
 msgid "Don't know or not sure"
 msgstr "不知道或不確定"
@@ -2491,45 +2460,37 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628271}"
 msgid ""
 "Organizations using OSS should accept having a responsibility to give back "
 "through contributions to OSS standards and projects"
-msgstr "使用開放原始碼軟體的組織應接受有責任透過對開放原始碼軟體標準和項目的貢獻來回"
-"饋社會"
+msgstr "使用開放原始碼軟體的組織應接受有責任地貢獻開放原始碼軟體的標準和專案的來回饋"
+"社會"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628272}"
 msgid ""
 "Organizations should allow time during working hours for employees to make "
 "meaningful contributions to open source projects and dependencies of interest "
 "to the organization"
-msgstr ""
-"組織應該在工作時間內留出時間讓員工為開源項目和組織感興趣的依賴項做出有意義的貢"
-"獻"
+msgstr "組織應該在工作時間內允許員工為開源專案和組織所關注的依賴項目做出有意義的貢獻"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628273}"
 msgid ""
 "Organizations using OSS should provide an economic incentive to employees for "
 "meaningful contribution to open source projects and dependencies of interest "
 "to the organization"
-msgstr ""
-"使用OSS的組織應為員工提供經濟激勵，以對開源專案和組織感興趣的依賴關係做出有意"
-"義的貢獻"
+msgstr "組織在使用開放原始碼軟體（OSS）時，應對員工進行有意義的貢獻於組織關注的開源專"
+"案和相關依賴項目提供經濟激勵措施"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628274}"
 msgid ""
 "Employers should proactively sponsor OSS standards and projects for "
 "interoperability across tools to make it less painful for developers to build "
 "pipelines and workflows"
-msgstr ""
-"僱主應積極贊助OSS標準和專案，以實現跨工具的互操作性，以減少開發人員構建管道和"
-"工作流的痛苦"
+msgstr "雇主應主動贊助開放原始碼軟體（OSS）的標準和專案，以實現工具間的互操作性，從減"
+"輕開發人員在構建流程和工作流程的負擔"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628275}"
 msgid ""
 "Service providers and vendors should sponsor free or deeply discounted tools "
 "and services for use on open source projects"
-msgstr "服務提供者和供應商應贊助免費或大幅折扣的工具和服務，用於開源專案"
+msgstr "服務提供商和供應商應贊助免費或提供有力折扣的工具和服務予開放原始碼專案使用"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957685595}"
 msgid "Please enter a comment."
@@ -2543,12 +2504,11 @@ msgctxt "{\"cxt\": \"question_required\", \"id\": 957840209}"
 msgid "This question requires an answer."
 msgstr "請回答這個問題。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"page_heading\", \"id\": 40143592}"
 msgid "<strong>Survey Reward</strong>"
 msgstr "<strong>調查獎勵</strong>"
 
-#, fuzzy, python-format
+#, python-format
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127869271}"
 msgid ""
 "Thank you for completing this survey. <strong>WOOS2023</strong> is a "
@@ -2559,20 +2519,15 @@ msgid ""
 "valid for any other combination of FINOPS or instructor-led training courses "
 "or certifications."
 msgstr ""
-"感謝您完成此調查。WOOS2023 是 25% d個 viscount 的任何一個 Linux 基金會電子學習"
-"培訓課程或認證考試，只要您在 <strong>2023</strong> 年 8 月 30 日之前註冊課程即"
-"可。您可以在 https://training.linuxfoundation.org/full-catalog/ 找到完整的培訓"
-"和認證目錄。此折扣代碼不適用於 FINOPS 或講師指導的培訓課程或認證的任何其他組"
-"合。"
+"感謝您完成此調查。只要在2023年8月30日之前註冊參加任何一個Linux "
+"Foundation的網路學習培訓課程或證書考試，將可獲得<strong>WOOS2023</strong>的 "
+"75 折優惠。您可以在https://training.linuxfoundation.org/full-catalog / "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"或由講師帶領的其他培訓課程或證書。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"survey_next\", \"id\": 511771208}"
 msgid "Next"
-msgstr ""
-"填寫報告的第一步，是確認該問題是否已經被回報過了。這樣做的好處，除了可以節省開"
-"發者的時間，也能讓您了解目前關於該問題的處理進度；有可能已經在下一個發行版本中"
-"修正了這個問題，也有可能需要更詳細的資訊（在這種情況下，如果可以，非常歡迎您提"
-"供資訊！）。要確認是否重複回報，請使用頁面頂端的搜尋框來搜尋錯誤資料庫。"
+msgstr "下一步"
 
 msgctxt "{\"cxt\": \"survey_prev\", \"id\": 511771208}"
 msgid "Prev"
@@ -2590,28 +2545,25 @@ msgctxt "{\"cxt\": \"survey_ok\", \"id\": 511771208}"
 msgid "OK"
 msgstr "確定"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"adv_branching_invalidate_question\", \"id\": 127860922}"
 msgid "You can't select I don't know or not sure\" and another option."
-msgstr "您不能選擇“我不知道或不確定”和另一個選項。"
+msgstr "您不能選擇「我不知道」或「不確定」以及其他選項。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"adv_branching_invalidate_question\", \"id\": 127864123}"
 msgid "You can't select I don't know or not sure\" and another option."
-msgstr "您不能選擇“我不知道或不確定”和另一個選項。"
+msgstr "您不能選擇「我不知道」或「不確定」以及其他選項。"
 
 msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450974742}"
 msgid "Thank you for completing our survey!"
 msgstr "感謝您完成問卷調查！"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"collector_thankyou\", \"id\": 450600999}"
 msgid ""
 "Thank you for completing the World of Open Source: 2023 Global Spotlight "
 "survey!"
-msgstr "感謝您完成開源世界：2023 年全球聚焦調查！"
+msgstr "感謝您完成「開源世界：2023 年全球聚焦調查」！"
 
-#, fuzzy, python-format
+#, python-format
 msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450600999}"
 msgid ""
 "Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
@@ -2621,12 +2573,13 @@ msgid ""
 "catalog of training and certifications is at https://training.linuxfoundation."
 "org/full-catalog/."
 msgstr ""
-"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
-"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
-"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
-"training.linuxfoundation.org/full-catalog/。"
+"感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
+"Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
+"的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog / "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"或由講師帶領的其他培訓課程或證書。"
 
-#, fuzzy, python-format
+#, python-format
 msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450954964}"
 msgid ""
 "Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
@@ -2636,12 +2589,13 @@ msgid ""
 "catalog of training and certifications is at https://training.linuxfoundation."
 "org/full-catalog/."
 msgstr ""
-"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
-"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
-"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
-"training.linuxfoundation.org/full-catalog/。"
+"感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
+"Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
+"的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog / "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"或由講師帶領的其他培訓課程或證書。"
 
-#, fuzzy, python-format
+#, python-format
 msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450994726}"
 msgid ""
 "Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
@@ -2651,12 +2605,13 @@ msgid ""
 "catalog of training and certifications is at https://training.linuxfoundation."
 "org/full-catalog/."
 msgstr ""
-"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
-"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
-"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
-"training.linuxfoundation.org/full-catalog/。"
+"感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
+"Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
+"的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog / "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"或由講師帶領的其他培訓課程或證書。"
 
-#, fuzzy, python-format
+#, python-format
 msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 451008534}"
 msgid ""
 "Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
@@ -2667,11 +2622,12 @@ msgid ""
 "org/full-catalog/."
 msgstr ""
 "感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
-"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
-"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
-"training.linuxfoundation.org/full-catalog/。"
+"電子學習培訓課程或認證考試，但 FINOPS "
+"或講師指導的培訓課程或認證的任意組合除外，並且只要您在 2023 年 8 月 30 "
+"日之前註冊課程。完整的培訓和認證目錄 https://training.linuxfoundation.org/"
+"full-catalog/。"
 
-#, fuzzy, python-format
+#, python-format
 msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450994453}"
 msgid ""
 "Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
@@ -2681,12 +2637,13 @@ msgid ""
 "catalog of training and certifications is at https://training.linuxfoundation."
 "org/full-catalog/."
 msgstr ""
-"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
-"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
-"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
-"training.linuxfoundation.org/full-catalog/。"
+"感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
+"Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
+"的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog / "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"或由講師帶領的其他培訓課程或證書。"
 
-#, fuzzy, python-format
+#, python-format
 msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450994418}"
 msgid ""
 "Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
@@ -2696,12 +2653,13 @@ msgid ""
 "catalog of training and certifications is at https://training.linuxfoundation."
 "org/full-catalog/."
 msgstr ""
-"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
-"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
-"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
-"training.linuxfoundation.org/full-catalog/。"
+"感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
+"Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
+"的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog / "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"或由講師帶領的其他培訓課程或證書。"
 
-#, fuzzy, python-format
+#, python-format
 msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450961203}"
 msgid ""
 "Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
@@ -2711,12 +2669,13 @@ msgid ""
 "catalog of training and certifications is at https://training.linuxfoundation."
 "org/full-catalog/."
 msgstr ""
-"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
-"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
-"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
-"training.linuxfoundation.org/full-catalog/。"
+"感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
+"Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
+"的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog / "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"或由講師帶領的其他培訓課程或證書。"
 
-#, fuzzy, python-format
+#, python-format
 msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450961189}"
 msgid ""
 "Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
@@ -2726,12 +2685,13 @@ msgid ""
 "catalog of training and certifications is at https://training.linuxfoundation."
 "org/full-catalog/."
 msgstr ""
-"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
-"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
-"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
-"training.linuxfoundation.org/full-catalog/。"
+"感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
+"Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
+"的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog / "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"或由講師帶領的其他培訓課程或證書。"
 
-#, fuzzy, python-format
+#, python-format
 msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450961157}"
 msgid ""
 "Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
@@ -2741,19 +2701,19 @@ msgid ""
 "catalog of training and certifications is at https://training.linuxfoundation."
 "org/full-catalog/."
 msgstr ""
-"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
-"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
-"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
-"training.linuxfoundation.org/full-catalog/。"
+"感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
+"Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
+"的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog / "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"或由講師帶領的其他培訓課程或證書。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"collector_thankyou\", \"id\": 450763440}"
 msgid ""
 "Thank you for completing the World of Open Source: 2023 Global Spotlight "
 "survey!"
-msgstr "感謝您完成開源世界：2023 年全球聚焦調查！"
+msgstr "感謝您完成「開源世界：2023 年全球聚焦調查」！"
 
-#, fuzzy, python-format
+#, python-format
 msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450763440}"
 msgid ""
 "Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
@@ -2763,12 +2723,13 @@ msgid ""
 "catalog of training and certifications is at https://training.linuxfoundation."
 "org/full-catalog/."
 msgstr ""
-"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
-"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
-"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
-"training.linuxfoundation.org/full-catalog/。"
+"感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
+"Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
+"的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog / "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"或由講師帶領的其他培訓課程或證書。"
 
-#, fuzzy, python-format
+#, python-format
 msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450954202}"
 msgid ""
 "Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
@@ -2778,12 +2739,13 @@ msgid ""
 "catalog of training and certifications is at https://training.linuxfoundation."
 "org/full-catalog/."
 msgstr ""
-"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
-"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
-"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
-"training.linuxfoundation.org/full-catalog/。"
+"感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
+"Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
+"的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog / "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"或由講師帶領的其他培訓課程或證書。"
 
-#, fuzzy, python-format
+#, python-format
 msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450944433}"
 msgid ""
 "Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
@@ -2793,12 +2755,13 @@ msgid ""
 "catalog of training and certifications is at https://training.linuxfoundation."
 "org/full-catalog/."
 msgstr ""
-"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
-"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
-"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
-"training.linuxfoundation.org/full-catalog/。"
+"感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
+"Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
+"的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog / "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"或由講師帶領的其他培訓課程或證書。"
 
-#, fuzzy, python-format
+#, python-format
 msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450861377}"
 msgid ""
 "Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
@@ -2808,12 +2771,13 @@ msgid ""
 "catalog of training and certifications is at https://training.linuxfoundation."
 "org/full-catalog/."
 msgstr ""
-"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
-"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
-"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
-"training.linuxfoundation.org/full-catalog/。"
+"感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
+"Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
+"的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog / "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"或由講師帶領的其他培訓課程或證書。"
 
-#, fuzzy, python-format
+#, python-format
 msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450861355}"
 msgid ""
 "Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
@@ -2823,12 +2787,13 @@ msgid ""
 "catalog of training and certifications is at https://training.linuxfoundation."
 "org/full-catalog/."
 msgstr ""
-"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
-"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
-"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
-"training.linuxfoundation.org/full-catalog/。"
+"感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
+"Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
+"的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog / "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"或由講師帶領的其他培訓課程或證書。"
 
-#, fuzzy, python-format
+#, python-format
 msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 450847257}"
 msgid ""
 "Thank you for participating. WOOS2023 is a 25% discount code for one Linux "
@@ -2838,7 +2803,8 @@ msgid ""
 "catalog of training and certifications is at https://training.linuxfoundation."
 "org/full-catalog/."
 msgstr ""
-"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
-"電子學習培訓課程或認證考試，但 FINOPS 或講師指導的培訓課程或認證的任意組合除"
-"外，並且只要您在 2023 年 8 月 30 日之前註冊課程。完整的培訓和認證目錄 https://"
-"training.linuxfoundation.org/full-catalog/。"
+"感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
+"Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
+"的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog / "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"或由講師帶領的其他培訓課程或證書。"
