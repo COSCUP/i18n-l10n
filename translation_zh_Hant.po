@@ -9,13 +9,14 @@
 # Yun <v04040507@gmail.com>, 2023.
 # Chin-Cheng Huang <katy881115@gmail.com>, 2023.
 # Hedgehog Chen <jhihruei@gmail.com>, 2023.
+# ddio <ddioibb@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-05-08 17:18+0000\n"
 "PO-Revision-Date: 2023-05-17 14:18+0000\n"
-"Last-Translator: Hedgehog Chen <jhihruei@gmail.com>\n"
+"Last-Translator: ddio <ddioibb@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://weblate.toomore.net/projects/"
 "linux-foundation-survey-zh-hant/survey-2023/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -313,7 +314,7 @@ msgctxt "{\"cxt\": \"question_heading\", \"id\": 127859821}"
 msgid ""
 "<strong>Professionally, which role do you most closely identify with?</"
 "strong> (select one)"
-msgstr "<strong>在職業上，哪個角色描述您最貼切？</strong> （選擇一項）"
+msgstr "<strong>哪項描述最符合您的職業內容？</strong> （選擇一項）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577149}"
 msgid "Software development (developer, engineer, architect, etc.)"
@@ -1088,7 +1089,7 @@ msgstr "從不"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957593685}"
 msgid "Rarely"
-msgstr "นานๆ ครั้ง"
+msgstr "很少"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957593686}"
 msgid "Sometimes"
@@ -1096,7 +1097,7 @@ msgstr "有時候"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957593687}"
 msgid "Often"
-msgstr "บ่อยครั้ง"
+msgstr "經常"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957593688}"
 msgid "Always"
