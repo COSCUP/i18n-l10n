@@ -10,13 +10,14 @@
 # Chin-Cheng Huang <katy881115@gmail.com>, 2023.
 # Hedgehog Chen <jhihruei@gmail.com>, 2023.
 # ddio <ddioibb@gmail.com>, 2023.
+# 蘇蘇 <sudosu.tw@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-05-08 17:18+0000\n"
-"PO-Revision-Date: 2023-05-17 14:23+0000\n"
-"Last-Translator: Chin-Cheng Huang <katy881115@gmail.com>\n"
+"PO-Revision-Date: 2023-05-18 16:08+0000\n"
+"Last-Translator: 蘇蘇 <sudosu.tw@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://weblate.toomore.net/projects/"
 "linux-foundation-survey-zh-hant/survey-2023/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -29,7 +30,7 @@ msgstr ""
 
 msgctxt "{\"cxt\": \"survey_title_html\", \"id\": 511771208}"
 msgid "World of Open Source: Global Spotlight 2023"
-msgstr "全球開放原始碼：聚焦2023"
+msgstr "全球開放原始碼：聚焦 2023"
 
 msgctxt "{\"cxt\": \"page_heading\", \"id\": 39733434}"
 msgid "<strong>Introduction</strong>"
@@ -66,7 +67,7 @@ msgstr ""
 "<div> </div>\n"
 "<div>您的回覆是匿名的，將用於編製於今年稍後發佈的報告。</div>\n"
 "<div> </div>\n"
-"<div>為了感謝您參與這項研究，一旦您完成問卷，確認頁面上將顯示一個代碼，"
+"<div>為了感謝您參與這項研究，一旦您完成問卷，確認頁面上將顯示一個折扣碼，"
 "可用於我們目錄中列出的任何 Linux 基礎培訓課程或認證考試的 75 折優惠： "
 "https://training.linuxfoundation.org/full-catalog/ 。</div>\n"
 "<div> </div>\n"
@@ -122,7 +123,7 @@ msgstr "<strong>請選出最能描述你的選項。</strong> （選擇一項）
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569428}"
 msgid "I'm just lines of code"
-msgstr "只是幾行程式碼路過"
+msgstr "我只是幾行程式碼"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569429}"
 msgid "I am a real person"
@@ -163,7 +164,7 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569434}"
 msgid ""
 "I can only speak for the department I work for within the company or "
 "organization"
-msgstr "我只能代表我在公司或組織內工作的部門發言"
+msgstr "我只能代表我在公司或組織內所屬的部門發言"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569435}"
 msgid ""
@@ -204,7 +205,7 @@ msgstr "就業中的兼職員工"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569442}"
 msgid "Self-employed, full or part time"
-msgstr "自雇人士，全職或兼職"
+msgstr "自雇者，全職或兼職"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569443}"
 msgid "Unemployed but previously employed and looking for work"
@@ -248,7 +249,7 @@ msgstr "墨西哥、中美洲和加勒比地區"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577136}"
 msgid "South America"
-msgstr "南美"
+msgstr "南美洲"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577137}"
 msgid "Western Europe"
@@ -300,7 +301,7 @@ msgstr "大洋洲（包括澳大利亞和紐西蘭）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957644354}"
 msgid "Please enter a comment."
-msgstr "請留下您的評價。"
+msgstr "請輸入說明。"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 957644357}"
 msgid "Other (please specify)"
@@ -358,7 +359,7 @@ msgstr "開放原始碼專案辦公室 （OSPO） 團隊"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577159}"
 msgid "C-level (CEO, CFO, CTO, CIO, CISO, CSO)"
-msgstr "C級（執行長，財務長，技術長，資訊長，資安長，安全長）"
+msgstr "C-level（執行長，財務長，技術長，資訊長，資安長，安全長）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577160}"
 msgid "Sales and marketing"
@@ -438,7 +439,7 @@ msgstr "政府單位或機構"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957645601}"
 msgid "Please enter a comment."
-msgstr "請留下您的評價。"
+msgstr "請留下您的說明。"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 957645604}"
 msgid "Other entity (please specify)"
@@ -488,7 +489,7 @@ msgstr "建築/工程"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584350}"
 msgid "Education (K-12, primary, secondary)"
-msgstr "教育（K-12，小學，中學）"
+msgstr "教育（K-12，國小，國中）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584351}"
 msgid "Education (college, university)"
@@ -538,7 +539,7 @@ msgstr "房地產、長短期租賃"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584362}"
 msgid "Retail, wholesale, & eCommerce"
-msgstr "零售、批發和電子商務"
+msgstr "零售、批發和電商"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584363}"
 msgid "Telecommunications / Internet service provider (ISP) / web hosting"
@@ -546,15 +547,15 @@ msgstr "電信/網際網路服務提供者（ISP）/虛擬主機"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584364}"
 msgid "Transportation & logistics (other than automotive)"
-msgstr "運輸和物流（汽車除外）"
+msgstr "運輸和物流（不包含汽車）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584365}"
 msgid "Utilities / energy"
-msgstr "公用事業/能源"
+msgstr "公用事業 / 能源"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957646117}"
 msgid "Please enter a comment."
-msgstr "請留下您的評價。"
+msgstr "請留下您的說明。"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 957646120}"
 msgid "Other (please specify)"
@@ -588,11 +589,11 @@ msgstr "包裝消費品"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584371}"
 msgid "Construction / engineering"
-msgstr "建築/工程"
+msgstr "建築 / 工程"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584372}"
 msgid "Education (K-12, primary, secondary)"
-msgstr "教育（K-12，小學，中學）"
+msgstr "教育（K-12，國小，國中）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584373}"
 msgid "Education (college, university)"
@@ -642,19 +643,19 @@ msgstr "房地產、長短期租賃"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584384}"
 msgid "Retail, wholesale, & eCommerce"
-msgstr "零售、批發和電子商務"
+msgstr "零售、批發和電商"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584385}"
 msgid "Telecommunications / Internet service provider (ISP) / web hosting"
-msgstr "電信/網際網路服務提供者（ISP）/虛擬主機"
+msgstr "電信/網際網路服務提供者（ISP） / 虛擬主機"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584386}"
 msgid "Transportation & logistics (other than automotive)"
-msgstr "運輸和物流（汽車除外）"
+msgstr "運輸和物流（不包含汽車）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584387}"
 msgid "Utilities / energy"
-msgstr "公用事業/能源"
+msgstr "公用事業 / 能源"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584388}"
 msgid ""
@@ -664,7 +665,7 @@ msgstr "跨產業資訊技術（IT 供應商、服務提供者或製造商）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957650477}"
 msgid "Please enter a comment."
-msgstr "請留下您的評價。"
+msgstr "請留下您的說明。"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 957650480}"
 msgid "Other (please specify)"
@@ -710,7 +711,7 @@ msgstr "10,000 到 19,999 人"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584396}"
 msgid "20,000 or more"
-msgstr "20,000 人或更多"
+msgstr "20,000 人以上"
 
 msgctxt "{\"cxt\": \"question_required\", \"id\": 957838861}"
 msgid "This question requires an answer."
