@@ -7,13 +7,14 @@
 # "Shen-Ta Hsieh(BestSteve)" <ibmibmibm.tw@gmail.com>, 2023.
 # Nero Un <hin1997101@gmail.com>, 2023.
 # Yun <v04040507@gmail.com>, 2023.
+# Chin-Cheng Huang <katy881115@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-05-08 17:18+0000\n"
 "PO-Revision-Date: 2023-05-17 14:18+0000\n"
-"Last-Translator: Yun <v04040507@gmail.com>\n"
+"Last-Translator: Chin-Cheng Huang <katy881115@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://weblate.toomore.net/projects/"
 "linux-foundation-survey-zh-hant/survey-2023/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -193,7 +194,7 @@ msgstr "應屆畢業生，但尚未就業"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569440}"
 msgid "Employed, full time"
-msgstr "就業中的全職員工"
+msgstr "就業中，全職員工"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569441}"
 msgid "Employed, part time"
@@ -339,7 +340,7 @@ msgstr "資安團隊"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577155}"
 msgid "Business analyst"
-msgstr "業務分析師"
+msgstr "商業分析師"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577156}"
 msgid "Data scientist or machine learning"
@@ -355,7 +356,7 @@ msgstr "開放原始碼專案辦公室 （OSPO） 團隊"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577159}"
 msgid "C-level (CEO, CFO, CTO, CIO, CISO, CSO)"
-msgstr "C級（執行長，財務長，技術長，資訊長，資安長）"
+msgstr "C級（執行長，財務長，技術長，資訊長，資安長，安全長）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577160}"
 msgid "Sales and marketing"
@@ -717,7 +718,7 @@ msgctxt "{\"cxt\": \"question_heading\", \"id\": 127860922}"
 msgid ""
 "<strong>Which of the following actions has your organization engaged in "
 "regarding OSS?</strong> (select all that apply)"
-msgstr "<strong>貴組織在OSS方面採取了以下哪些行動？</strong> （選擇所有適用項目）"
+msgstr "<strong>貴組織在 OSS 方面採取了以下哪些行動？</strong> （選擇所有適用項目）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957652493}"
 msgid "None of the above"
@@ -963,7 +964,7 @@ msgstr "人工智慧/機器學習"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590124}"
 msgid "Augmented / Virtual reality"
-msgstr "增強/虛擬實境"
+msgstr "擴增/虛擬實境"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590125}"
 msgid "Blockchain"
@@ -1240,11 +1241,11 @@ msgstr "不知道或不確定"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590165}"
 msgid "It has decreased a lot"
-msgstr "減少很多"
+msgstr "它減少了很多"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590166}"
 msgid "It has decreased a little"
-msgstr "它有下降一點"
+msgstr "它下降了一點"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590167}"
 msgid "It has stayed the same"
@@ -1417,7 +1418,7 @@ msgstr "人工智慧/機器學習"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605042}"
 msgid "Augmented / Virtual reality"
-msgstr "增強/虛擬實境"
+msgstr "擴增/虛擬實境"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605043}"
 msgid "Blockchain"
@@ -1552,7 +1553,7 @@ msgstr "使組織成為更好的工作場所"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605070}"
 msgid "Enables the IT industry to be more innovative"
-msgstr "使IT行業更具創新性"
+msgstr "使 IT 行業更具創新性"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605071}"
 msgid "Fulfill a moral obligation to other OSS consumers"
@@ -1599,23 +1600,23 @@ msgstr "不知道或不確定"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605072}"
 msgid "It has decreased a lot"
-msgstr "減少很多"
+msgstr "它減少了很多"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605073}"
 msgid "It has decreased a little"
-msgstr "減少一點"
+msgstr "它減少了一點"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605074}"
 msgid "It has stayed the same"
-msgstr "保持不變"
+msgstr "它保持不變"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605075}"
 msgid "It has increased a little"
-msgstr "增加一點"
+msgstr "它增加了一點"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605076}"
 msgid "It has increased a lot"
-msgstr "增加很多"
+msgstr "它增加了很多"
 
 msgctxt "{\"cxt\": \"question_required\", \"id\": 957840032}"
 msgid "This question requires an answer."
@@ -1761,7 +1762,7 @@ msgstr "每周 5-10 小時"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605094}"
 msgid "11-20 hours per week"
-msgstr "每周11-20 小時"
+msgstr "每周 11-20 小時"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605095}"
 msgid "21-30 hours per week"
@@ -1895,7 +1896,7 @@ msgstr "每周 11-20 小時"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605139}"
 msgid "21-30 hours per week"
-msgstr "每周21-30 小時"
+msgstr "每周 21-30 小時"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957605140}"
 msgid "31-40 hours per week"
@@ -2099,7 +2100,7 @@ msgstr "人工智慧/機器學習"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628199}"
 msgid "Augmented / Virtual reality"
-msgstr "增強/虛擬實境"
+msgstr "擴增/虛擬實境"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957628200}"
 msgid "Blockchain"
