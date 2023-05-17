@@ -8,13 +8,14 @@
 # Nero Un <hin1997101@gmail.com>, 2023.
 # Yun <v04040507@gmail.com>, 2023.
 # Chin-Cheng Huang <katy881115@gmail.com>, 2023.
+# Hedgehog Chen <jhihruei@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-05-08 17:18+0000\n"
 "PO-Revision-Date: 2023-05-17 14:18+0000\n"
-"Last-Translator: Chin-Cheng Huang <katy881115@gmail.com>\n"
+"Last-Translator: Hedgehog Chen <jhihruei@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://weblate.toomore.net/projects/"
 "linux-foundation-survey-zh-hant/survey-2023/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -186,7 +187,7 @@ msgstr "不知道或不確定"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569438}"
 msgid "Student, full time or part time"
-msgstr "學生，專職或在職"
+msgstr "學生，專職或兼職"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569439}"
 msgid "Recent graduate, but not yet employed"
@@ -206,11 +207,11 @@ msgstr "自雇人士，全職或兼職"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569443}"
 msgid "Unemployed but previously employed and looking for work"
-msgstr "以前曾經就業，目前失業並正在尋找工作"
+msgstr "以前曾經就業，目前待業並正在尋找工作"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569444}"
 msgid "Unemployed, and not currently looking for work"
-msgstr "失業，目前沒有在找工作"
+msgstr "待業，目前沒有在找工作"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569445}"
 msgid "Retired"
@@ -368,7 +369,7 @@ msgstr "法務"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577162}"
 msgid "Academia / Education"
-msgstr "學術/教育"
+msgstr "學術／教育"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957645013}"
 msgid "Please enter a comment."
@@ -400,11 +401,11 @@ msgstr "“終端使用者”組織。主要使用 IT 產品和服務來支援�
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581532}"
 msgid "Hardware / software vendor"
-msgstr "硬體/軟體製造商"
+msgstr "硬體／軟體製造商"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581533}"
 msgid "Hardware / software supplier"
-msgstr "硬體/軟體供應商"
+msgstr "硬體／軟體供應商"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581534}"
 msgid "Embedded systems vendor"
@@ -456,7 +457,7 @@ msgid ""
 "software reseller/distributor, please answer the remaining questions on "
 "behalf of the most current client you are primarily working for."
 msgstr "由於您受雇於系統整合商、僱問公司、CSP "
-"或軟體經銷商/配銷商，因此請您代表您公司的當前客戶回答其餘問題。"
+"或軟體經銷商／配銷商，因此請您代表您公司的當前客戶回答其餘問題。"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127860919}"
 msgid ""
@@ -2523,7 +2524,7 @@ msgid ""
 msgstr ""
 "感謝您完成此調查。只要在2023年8月30日之前註冊參加任何一個Linux "
 "Foundation的網路學習培訓課程或證書考試，將可獲得<strong>WOOS2023</strong>的 "
-"75 折優惠。您可以在https://training.linuxfoundation.org/full-catalog / "
+"75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog / "
 "找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
 "或由講師帶領的其他培訓課程或證書。"
 
@@ -2623,7 +2624,7 @@ msgid ""
 "catalog of training and certifications is at https://training.linuxfoundation."
 "org/full-catalog/."
 msgstr ""
-"感謝您的參與。WOOS2023 是一個 25% discount 代碼，適用於一個 Linux Foundation "
+"% d感謝您的參與。WOOS2023 是一個 75 折的優惠碼，適用於一個 Linux Foundation "
 "電子學習培訓課程或認證考試，但 FINOPS "
 "或講師指導的培訓課程或認證的任意組合除外，並且只要您在 2023 年 8 月 30 "
 "日之前註冊課程。完整的培訓和認證目錄 https://training.linuxfoundation.org/"
