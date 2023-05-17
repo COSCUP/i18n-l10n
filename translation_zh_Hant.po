@@ -6,13 +6,14 @@
 # Toomore Chiang <toomore0929@gmail.com>, 2023.
 # "Shen-Ta Hsieh(BestSteve)" <ibmibmibm.tw@gmail.com>, 2023.
 # Nero Un <hin1997101@gmail.com>, 2023.
+# Yun <v04040507@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-05-08 17:18+0000\n"
-"PO-Revision-Date: 2023-05-16 10:41+0000\n"
-"Last-Translator: \"Shen-Ta Hsieh(BestSteve)\" <ibmibmibm.tw@gmail.com>\n"
+"PO-Revision-Date: 2023-05-17 14:18+0000\n"
+"Last-Translator: Yun <v04040507@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://weblate.toomore.net/projects/"
 "linux-foundation-survey-zh-hant/survey-2023/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -25,7 +26,7 @@ msgstr ""
 
 msgctxt "{\"cxt\": \"survey_title_html\", \"id\": 511771208}"
 msgid "World of Open Source: Global Spotlight 2023"
-msgstr "全球開放原始碼：聚焦 2023"
+msgstr "全球開放原始碼：聚焦2023"
 
 msgctxt "{\"cxt\": \"page_heading\", \"id\": 39733434}"
 msgid "<strong>Introduction</strong>"
@@ -114,15 +115,15 @@ msgstr "請回答這個問題。"
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 127858595}"
 msgid ""
 "<strong>Please indicate what best describes who you are.</strong> (select one)"
-msgstr "<strong>請選出哪個選項最能描述你。</strong> （選擇一項）"
+msgstr "<strong>請選出最能描述你的選項。</strong> （選擇一項）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569428}"
 msgid "I'm just lines of code"
-msgstr "我只是幾行程式碼"
+msgstr "只是幾行程式碼路過"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569429}"
 msgid "I am a real person"
-msgstr "我是真人"
+msgstr "我是活生生的人類"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569430}"
 msgid "I am a bot"
