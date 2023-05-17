@@ -11,13 +11,14 @@
 # Hedgehog Chen <jhihruei@gmail.com>, 2023.
 # ddio <ddioibb@gmail.com>, 2023.
 # 蘇蘇 <sudosu.tw@gmail.com>, 2023.
+# Sheng <orertrr6207@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-05-08 17:18+0000\n"
 "PO-Revision-Date: 2023-05-18 16:08+0000\n"
-"Last-Translator: 蘇蘇 <sudosu.tw@gmail.com>\n"
+"Last-Translator: Sheng <orertrr6207@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://weblate.toomore.net/projects/"
 "linux-foundation-survey-zh-hant/survey-2023/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -2524,9 +2525,9 @@ msgid ""
 "valid for any other combination of FINOPS or instructor-led training courses "
 "or certifications."
 msgstr ""
-"感謝您完成此調查。只要在2023年8月30日之前註冊參加任何一個 Linux Foundation "
-"的網路學習培訓課程或證書考試，將可獲得<strong>WOOS2023</strong>的 75 折優惠。"
-"您可以在 https://training.linuxfoundation.org/full-catalog / "
+"感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
+"Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong> "
+"的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog/ "
 "找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
 "或由講師帶領的其他培訓課程或證書。"
 
